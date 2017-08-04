@@ -7,8 +7,8 @@ require("tab_print")
 require("map_parser")
 require("mm_parser")
 
-
-input_map="D:\\working\\openSource\\lua\\linux_map_parser\\tests\\tester.map"
+--default
+input_map="D:\\working\\openSource\\lua\\linux_map_parser\\tests\\tester1.map"
 input_mm=input_map..".mm"
 --[[
 @stack_list  input
@@ -81,7 +81,6 @@ else
 	print("==============================================")	
 	print("usage: lua main.lua map_file_name mm_file_name")	
 	print("==============================================")		
-	return
 end
 
 print("map file :  ", input_map)
