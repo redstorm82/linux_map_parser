@@ -1,0 +1,554 @@
+71687000-71787000 rw-s 00000000 00:04 14572      /dev/ashmem/AudioFlinger::Client (deleted)
+71787000-71887000 rw-s 00000000 00:04 8364       /dev/ashmem/MemoryHeapBase (deleted)
+71985000-71a85000 rw-s 00000000 00:04 12172      /dev/ashmem/AudioFlinger::Client (deleted)
+73468000-73469000 ---p 00000000 00:00 0 
+73469000-73566000 rw-p 00000000 00:00 0          [stack:3960]
+73566000-73567000 ---p 00000000 00:00 0 
+73567000-73664000 rw-p 00000000 00:00 0          [stack:3959]
+73664000-73665000 ---p 00000000 00:00 0 
+73665000-73762000 rw-p 00000000 00:00 0          [stack:3955]
+73762000-73763000 ---p 00000000 00:00 0 
+73763000-73860000 rw-p 00000000 00:00 0          [stack:3954]
+73860000-73861000 ---p 00000000 00:00 0 
+73861000-7395e000 rw-p 00000000 00:00 0          [stack:3953]
+7395e000-73a5e000 rw-s 00000000 00:04 13751      /dev/ashmem/MemoryHeapBase (deleted)
+73adf000-73ae0000 ---p 00000000 00:00 0 
+73ae0000-73bdd000 rw-p 00000000 00:00 0          [stack:3952]
+73bdd000-73bde000 ---p 00000000 00:00 0 
+73bde000-73cdb000 rw-p 00000000 00:00 0          [stack:3415]
+73d75000-73d76000 ---p 00000000 00:00 0 
+73d76000-73e73000 rw-p 00000000 00:00 0          [stack:3951]
+73e73000-73e75000 rw-p 00000000 00:00 0 
+73edc000-73ee6000 rw-p 00000000 00:00 0 
+73ee6000-73ee7000 rw-s 2ee67000 00:0b 3374       /dev/hi_mem
+73ee7000-73eeb000 rw-p 00000000 00:00 0 
+73eeb000-73f0c000 r-xp 00000000 103:0f 954       /system/lib/libformat_open.so
+73f0c000-73f0e000 r--p 00020000 103:0f 954       /system/lib/libformat_open.so
+73f0e000-73f0f000 rw-p 00022000 103:0f 954       /system/lib/libformat_open.so
+73f0f000-73f10000 r--p 00000000 00:00 0 
+73f10000-73f24000 r-xp 00000000 103:0f 948       /system/lib/libffmpegformat.so
+73f24000-73f25000 ---p 00000000 00:00 0 
+73f25000-73f26000 r--p 00014000 103:0f 948       /system/lib/libffmpegformat.so
+73f26000-73f27000 rw-p 00015000 103:0f 948       /system/lib/libffmpegformat.so
+73f27000-73f38000 r-xp 00000000 103:0f 930       /system/lib/libdvdnav.so
+73f38000-73f39000 r--p 00010000 103:0f 930       /system/lib/libdvdnav.so
+73f39000-73f3a000 rw-p 00011000 103:0f 930       /system/lib/libdvdnav.so
+73f3a000-73f4e000 r-xp 00000000 103:0f 932       /system/lib/libdvdread.so
+73f4e000-73f4f000 r--p 00013000 103:0f 932       /system/lib/libdvdread.so
+73f4f000-73f50000 rw-p 00014000 103:0f 932       /system/lib/libdvdread.so
+73f50000-73f54000 r-xp 00000000 103:0f 931       /system/lib/libdvdprotocol.so
+73f54000-73f55000 r--p 00003000 103:0f 931       /system/lib/libdvdprotocol.so
+73f55000-73f56000 rw-p 00004000 103:0f 931       /system/lib/libdvdprotocol.so
+73f56000-73f58000 r-xp 00000000 103:0f 849       /system/lib/libHV.VIDEO.FFMPEG_VDEC.decode.so
+73f58000-73f59000 r--p 00001000 103:0f 849       /system/lib/libHV.VIDEO.FFMPEG_VDEC.decode.so
+73f59000-73f5a000 rw-p 00002000 103:0f 849       /system/lib/libHV.VIDEO.FFMPEG_VDEC.decode.so
+73f5a000-73f5d000 r-xp 00000000 103:0f 840       /system/lib/libHA.AUDIO.DTSPASSTHROUGH.decode.so
+73f5d000-73f5e000 r--p 00002000 103:0f 840       /system/lib/libHA.AUDIO.DTSPASSTHROUGH.decode.so
+73f5e000-73f5f000 rw-p 00003000 103:0f 840       /system/lib/libHA.AUDIO.DTSPASSTHROUGH.decode.so
+73f5f000-73f61000 r-xp 00000000 103:0f 833       /system/lib/libHA.AUDIO.AC3PASSTHROUGH.decode.so
+73f61000-73f62000 r--p 00001000 103:0f 833       /system/lib/libHA.AUDIO.AC3PASSTHROUGH.decode.so
+73f62000-73f63000 rw-p 00002000 103:0f 833       /system/lib/libHA.AUDIO.AC3PASSTHROUGH.decode.so
+73f63000-73f65000 r-xp 00000000 103:0f 846       /system/lib/libHA.AUDIO.PCM.decode.so
+73f65000-73f66000 r--p 00001000 103:0f 846       /system/lib/libHA.AUDIO.PCM.decode.so
+73f66000-73f67000 rw-p 00002000 103:0f 846       /system/lib/libHA.AUDIO.PCM.decode.so
+73f67000-73f83000 r-xp 00000000 103:0f 1133      /system/lib/libswscale.so
+73f83000-73f84000 r--p 0001b000 103:0f 1133      /system/lib/libswscale.so
+73f84000-73f85000 rw-p 0001c000 103:0f 1133      /system/lib/libswscale.so
+73f85000-73f8e000 r-xp 00000000 103:0f 982       /system/lib/libhi_subparse.so
+73f8e000-73f8f000 r--p 00008000 103:0f 982       /system/lib/libhi_subparse.so
+73f8f000-73f90000 rw-p 00009000 103:0f 982       /system/lib/libhi_subparse.so
+73f90000-73f91000 r-xp 00000000 103:0f 909       /system/lib/libclientadp.so
+73f91000-73f92000 r--p 00000000 103:0f 909       /system/lib/libclientadp.so
+73f92000-73f93000 rw-p 00001000 103:0f 909       /system/lib/libclientadp.so
+73f93000-73fae000 r-xp 00000000 103:0f 951       /system/lib/libflac_ex.so
+73fae000-73faf000 ---p 00000000 00:00 0 
+73faf000-73fb0000 r--p 0001b000 103:0f 951       /system/lib/libflac_ex.so
+73fb0000-73fb1000 rw-p 0001c000 103:0f 951       /system/lib/libflac_ex.so
+73fb1000-73fb3000 r-xp 00000000 103:0f 1142      /system/lib/libtlsadp.so
+73fb3000-73fb4000 r--p 00001000 103:0f 1142      /system/lib/libtlsadp.so
+73fb4000-73fb5000 rw-p 00002000 103:0f 1142      /system/lib/libtlsadp.so
+73fb5000-742e1000 r-xp 00000000 103:0f 880       /system/lib/libavcodec.so
+742e1000-742e2000 ---p 00000000 00:00 0 
+742e2000-742ed000 r--p 0032c000 103:0f 880       /system/lib/libavcodec.so
+742ed000-742fa000 rw-p 00337000 103:0f 880       /system/lib/libavcodec.so
+742fa000-74868000 rw-p 00000000 00:00 0 
+74868000-7487b000 r-xp 00000000 103:0f 882       /system/lib/libavutil.so
+7487b000-7487c000 ---p 00000000 00:00 0 
+7487c000-7487e000 r--p 00013000 103:0f 882       /system/lib/libavutil.so
+7487e000-7487f000 rw-p 00015000 103:0f 882       /system/lib/libavutil.so
+7487f000-74882000 rw-p 00000000 00:00 0 
+74882000-7492e000 r-xp 00000000 103:0f 881       /system/lib/libavformat.so
+7492e000-74934000 r--p 000ab000 103:0f 881       /system/lib/libavformat.so
+74934000-7493a000 rw-p 000b1000 103:0f 881       /system/lib/libavformat.so
+7493a000-7493c000 r-xp 00000000 103:0f 841       /system/lib/libHA.AUDIO.FFMPEG_ADEC.decode.so
+7493c000-7493d000 r--p 00001000 103:0f 841       /system/lib/libHA.AUDIO.FFMPEG_ADEC.decode.so
+7493d000-7493e000 rw-p 00002000 103:0f 841       /system/lib/libHA.AUDIO.FFMPEG_ADEC.decode.so
+7493e000-74949000 r-xp 00000000 103:0f 837       /system/lib/libHA.AUDIO.COOK.decode.so
+74949000-7494a000 r--p 0000a000 103:0f 837       /system/lib/libHA.AUDIO.COOK.decode.so
+7494a000-7494b000 rw-p 0000b000 103:0f 837       /system/lib/libHA.AUDIO.COOK.decode.so
+7494b000-7494c000 ---p 00000000 00:00 0 
+7494c000-74a49000 rw-p 00000000 00:00 0          [stack:3023]
+74a49000-74a4b000 r--p 00000000 00:00 0 
+74a4b000-74a4e000 r-xp 00000000 103:0f 836       /system/lib/libHA.AUDIO.BLURAYLPCM.decode.so
+74a4e000-74a4f000 r--p 00002000 103:0f 836       /system/lib/libHA.AUDIO.BLURAYLPCM.decode.so
+74a4f000-74a50000 rw-p 00003000 103:0f 836       /system/lib/libHA.AUDIO.BLURAYLPCM.decode.so
+74a50000-74a6f000 r-xp 00000000 103:0f 848       /system/lib/libHA.AUDIO.WMA.decode.so
+74a6f000-74a70000 r--p 0001e000 103:0f 848       /system/lib/libHA.AUDIO.WMA.decode.so
+74a70000-74a71000 rw-p 0001f000 103:0f 848       /system/lib/libHA.AUDIO.WMA.decode.so
+74a71000-74a73000 rw-p 00000000 00:00 0 
+74a73000-74a85000 r-xp 00000000 103:0f 835       /system/lib/libHA.AUDIO.AMRWB.codec.so
+74a85000-74a86000 r--p 00011000 103:0f 835       /system/lib/libHA.AUDIO.AMRWB.codec.so
+74a86000-74a8e000 rw-p 00012000 103:0f 835       /system/lib/libHA.AUDIO.AMRWB.codec.so
+74a8e000-74aa8000 r-xp 00000000 103:0f 834       /system/lib/libHA.AUDIO.AMRNB.codec.so
+74aa8000-74aa9000 r--p 00019000 103:0f 834       /system/lib/libHA.AUDIO.AMRNB.codec.so
+74aa9000-74aad000 rw-p 0001a000 103:0f 834       /system/lib/libHA.AUDIO.AMRNB.codec.so
+74aad000-74aaf000 r-xp 00000000 103:0f 847       /system/lib/libHA.AUDIO.TRUEHDPASSTHROUGH.decode.so
+74aaf000-74ab0000 r--p 00001000 103:0f 847       /system/lib/libHA.AUDIO.TRUEHDPASSTHROUGH.decode.so
+74ab0000-74ab1000 rw-p 00002000 103:0f 847       /system/lib/libHA.AUDIO.TRUEHDPASSTHROUGH.decode.so
+74ab1000-74abc000 r-xp 00000000 103:0f 839       /system/lib/libHA.AUDIO.DRA.decode.so
+74abc000-74abd000 r--p 0000a000 103:0f 839       /system/lib/libHA.AUDIO.DRA.decode.so
+74abd000-74abe000 rw-p 0000b000 103:0f 839       /system/lib/libHA.AUDIO.DRA.decode.so
+74abe000-74ad8000 r-xp 00000000 103:0f 831       /system/lib/libHA.AUDIO.AAC.decode.so
+74ad8000-74ad9000 ---p 00000000 00:00 0 
+74ad9000-74ada000 r--p 0001a000 103:0f 831       /system/lib/libHA.AUDIO.AAC.decode.so
+74ada000-74adb000 rw-p 0001b000 103:0f 831       /system/lib/libHA.AUDIO.AAC.decode.so
+74adb000-74ae5000 r-xp 00000000 103:0f 844       /system/lib/libHA.AUDIO.MP2.decode.so
+74ae5000-74ae6000 r--p 00009000 103:0f 844       /system/lib/libHA.AUDIO.MP2.decode.so
+74ae6000-74ae7000 rw-p 0000a000 103:0f 844       /system/lib/libHA.AUDIO.MP2.decode.so
+74ae7000-74b10000 r-xp 00000000 103:0f 838       /system/lib/libHA.AUDIO.DOLBYPLUS.decode.so
+74b10000-74b11000 r--p 00028000 103:0f 838       /system/lib/libHA.AUDIO.DOLBYPLUS.decode.so
+74b11000-74b12000 rw-p 00029000 103:0f 838       /system/lib/libHA.AUDIO.DOLBYPLUS.decode.so
+74b12000-74b1c000 r-xp 00000000 103:0f 845       /system/lib/libHA.AUDIO.MP3.decode.so
+74b1c000-74b1d000 r--p 00009000 103:0f 845       /system/lib/libHA.AUDIO.MP3.decode.so
+74b1d000-74b1e000 rw-p 0000a000 103:0f 845       /system/lib/libHA.AUDIO.MP3.decode.so
+74b1e000-74b22000 rw-s 26c00000 00:0b 3374       /dev/hi_mem
+74b22000-74b4e000 r-xp 00000000 103:0f 903       /system/lib/libcharset.so
+74b4e000-74b4f000 r--p 0002b000 103:0f 903       /system/lib/libcharset.so
+74b4f000-74b50000 rw-p 0002c000 103:0f 903       /system/lib/libcharset.so
+74b50000-74b52000 r-xp 00000000 103:0f 855       /system/lib/libOMX_Core.so
+74b52000-74b53000 r--p 00001000 103:0f 855       /system/lib/libOMX_Core.so
+74b53000-74b54000 rw-p 00002000 103:0f 855       /system/lib/libOMX_Core.so
+74b54000-74b55000 r-xp 00000000 103:0f 1126      /system/lib/libstagefrighthw.so
+74b55000-74b56000 r--p 00000000 103:0f 1126      /system/lib/libstagefrighthw.so
+74b56000-74b57000 rw-p 00001000 103:0f 1126      /system/lib/libstagefrighthw.so
+74b57000-74b59000 rw-p 00000000 00:00 0 
+74b59000-74b5a000 ---p 00000000 00:00 0 
+74b5a000-74c57000 rw-p 00000000 00:00 0          [stack:2048]
+74c57000-74c59000 rw-p 00000000 00:00 0 
+74c59000-74c5a000 ---p 00000000 00:00 0 
+74c5a000-74d57000 rw-p 00000000 00:00 0          [stack:2047]
+74d57000-74d59000 rw-p 00000000 00:00 0 
+74d59000-74d5a000 ---p 00000000 00:00 0 
+74d5a000-74e57000 rw-p 00000000 00:00 0          [stack:1928]
+74e57000-74e58000 r-xp 00000000 103:0f 1066      /system/lib/libpower.so
+74e58000-74e59000 r--p 00000000 103:0f 1066      /system/lib/libpower.so
+74e59000-74e5a000 rw-p 00001000 103:0f 1066      /system/lib/libpower.so
+74e5a000-74e5c000 r-xp 00000000 103:0f 805       /system/lib/hw/audio.a2dp.default.so
+74e5c000-74e5d000 r--p 00001000 103:0f 805       /system/lib/hw/audio.a2dp.default.so
+74e5d000-74e5e000 rw-p 00002000 103:0f 805       /system/lib/hw/audio.a2dp.default.so
+74e5e000-74e60000 rw-p 00000000 00:00 0 
+74e60000-74e61000 ---p 00000000 00:00 0 
+74e61000-74f5e000 rw-p 00000000 00:00 0          [stack:1923]
+74f5e000-74f60000 r-xp 00000000 103:0f 1179      /system/lib/soundfx/libldnhncr.so
+74f60000-74f61000 r--p 00001000 103:0f 1179      /system/lib/soundfx/libldnhncr.so
+74f61000-74f62000 rw-p 00002000 103:0f 1179      /system/lib/soundfx/libldnhncr.so
+74f62000-74f64000 r-xp 00000000 103:0f 1177      /system/lib/soundfx/libdownmix.so
+74f64000-74f65000 r--p 00001000 103:0f 1177      /system/lib/soundfx/libdownmix.so
+74f65000-74f66000 rw-p 00002000 103:0f 1177      /system/lib/soundfx/libdownmix.so
+74f66000-74f67000 r-xp 00000000 103:0f 1181      /system/lib/soundfx/libvisualizer.so
+74f67000-74f68000 ---p 00000000 00:00 0 
+74f68000-74f69000 r--p 00001000 103:0f 1181      /system/lib/soundfx/libvisualizer.so
+74f69000-74f6a000 rw-p 00002000 103:0f 1181      /system/lib/soundfx/libvisualizer.so
+74f6a000-74f70000 r-xp 00000000 103:0f 1180      /system/lib/soundfx/libreverbwrapper.so
+74f70000-74f71000 r--p 00005000 103:0f 1180      /system/lib/soundfx/libreverbwrapper.so
+74f71000-74f72000 rw-p 00006000 103:0f 1180      /system/lib/soundfx/libreverbwrapper.so
+74f72000-74f80000 r-xp 00000000 103:0f 1176      /system/lib/soundfx/libbundlewrapper.so
+74f80000-74f81000 r--p 0000d000 103:0f 1176      /system/lib/soundfx/libbundlewrapper.so
+74f81000-74f82000 rw-p 0000e000 103:0f 1176      /system/lib/soundfx/libbundlewrapper.so
+74f82000-74f83000 r-xp 00000000 103:0f 818       /system/lib/hw/local_time.default.so
+74f83000-74f84000 r--p 00000000 103:0f 818       /system/lib/hw/local_time.default.so
+74f84000-74f85000 rw-p 00001000 103:0f 818       /system/lib/hw/local_time.default.so
+74f85000-74fc6000 rw-p 00000000 00:00 0 
+74fc6000-74fc9000 r-xp 00000000 103:0f 804       /system/lib/hw/alsa.default.so
+74fc9000-74fca000 r--p 00002000 103:0f 804       /system/lib/hw/alsa.default.so
+74fca000-74fcb000 rw-p 00003000 103:0f 804       /system/lib/hw/alsa.default.so
+74fcb000-74fd5000 r-xp 00000000 103:0f 806       /system/lib/hw/audio.primary.bigfish.so
+74fd5000-74fd6000 r--p 00009000 103:0f 806       /system/lib/hw/audio.primary.bigfish.so
+74fd6000-74fd7000 rw-p 0000a000 103:0f 806       /system/lib/hw/audio.primary.bigfish.so
+74fd7000-74fdb000 r-xp 00000000 103:0f 989       /system/lib/libhiaoserviceclient.so
+74fdb000-74fdc000 ---p 00000000 00:00 0 
+74fdc000-74fdd000 r--p 00004000 103:0f 989       /system/lib/libhiaoserviceclient.so
+74fdd000-74fde000 rw-p 00005000 103:0f 989       /system/lib/libhiaoserviceclient.so
+74fde000-74fdf000 r--p 00000000 00:00 0 
+74fdf000-74ff1000 r-xp 00000000 103:0f 808       /system/lib/hw/audio_policy.default.so
+74ff1000-74ff2000 ---p 00000000 00:00 0 
+74ff2000-74ff3000 r--p 00012000 103:0f 808       /system/lib/hw/audio_policy.default.so
+74ff3000-74ff4000 rw-p 00013000 103:0f 808       /system/lib/hw/audio_policy.default.so
+74ff4000-74ff6000 rw-p 00000000 00:00 0 
+74ff6000-74ff7000 ---p 00000000 00:00 0 
+74ff7000-750f4000 rw-p 00000000 00:00 0          [stack:1907]
+750f4000-750f6000 rw-p 00000000 00:00 0 
+750f6000-750f7000 ---p 00000000 00:00 0 
+750f7000-751f4000 rw-p 00000000 00:00 0          [stack:1906]
+751f4000-751f6000 rw-p 00000000 00:00 0 
+751f6000-751f7000 ---p 00000000 00:00 0 
+751f7000-752f4000 rw-p 00000000 00:00 0          [stack:1905]
+752f4000-7530a000 r-xp 00000000 103:0f 810       /system/lib/hw/camera.bigfish.so
+7530a000-7530b000 ---p 00000000 00:00 0 
+7530b000-7530c000 r--p 00016000 103:0f 810       /system/lib/hw/camera.bigfish.so
+7530c000-7530d000 rw-p 00017000 103:0f 810       /system/lib/hw/camera.bigfish.so
+7530d000-7530e000 rw-s 2ee64000 00:0b 3374       /dev/hi_mem
+7530e000-7540c000 r--p 00000000 00:0b 3371       /dev/binder
+7540c000-7540d000 r--p 00000000 00:00 0 
+7540d000-7544d000 r-xp 00000000 103:0f 895       /system/lib/libc_malloc_debug_leak.so
+7544d000-7544f000 r--p 0003f000 103:0f 895       /system/lib/libc_malloc_debug_leak.so
+7544f000-75452000 rw-p 00041000 103:0f 895       /system/lib/libc_malloc_debug_leak.so
+75452000-7545e000 rw-p 00000000 00:00 0 
+7545e000-7547e000 r--s 00000000 00:0b 5146       /dev/__properties__
+7547e000-754a6000 r-xp 00000000 103:0f 964       /system/lib/libharfbuzz.so
+754a6000-754a7000 r--p 00027000 103:0f 964       /system/lib/libharfbuzz.so
+754a7000-754a8000 rw-p 00028000 103:0f 964       /system/lib/libharfbuzz.so
+754a8000-754aa000 r-xp 00000000 103:0f 981       /system/lib/libhi_so.so
+754aa000-754ab000 r--p 00001000 103:0f 981       /system/lib/libhi_so.so
+754ab000-754ac000 rw-p 00002000 103:0f 981       /system/lib/libhi_so.so
+754ac000-754d0000 r-xp 00000000 103:0f 1060      /system/lib/libplayer.so
+754d0000-754d1000 ---p 00000000 00:00 0 
+754d1000-754d2000 r--p 00024000 103:0f 1060      /system/lib/libplayer.so
+754d2000-754d4000 rw-p 00025000 103:0f 1060      /system/lib/libplayer.so
+754d4000-754d5000 rw-p 00000000 00:00 0 
+754d5000-754da000 r-xp 00000000 103:0f 1051      /system/lib/libnetshare_client.so
+754da000-754db000 r--p 00004000 103:0f 1051      /system/lib/libnetshare_client.so
+754db000-754dc000 rw-p 00005000 103:0f 1051      /system/lib/libnetshare_client.so
+754dc000-754eb000 r-xp 00000000 103:0f 953       /system/lib/libformat.so
+754eb000-754ec000 r--p 0000e000 103:0f 953       /system/lib/libformat.so
+754ec000-754ed000 rw-p 0000f000 103:0f 953       /system/lib/libformat.so
+754ed000-754f4000 r-xp 00000000 103:0f 1129      /system/lib/libsubdec.so
+754f4000-754f5000 r--p 00006000 103:0f 1129      /system/lib/libsubdec.so
+754f5000-754f6000 rw-p 00007000 103:0f 1129      /system/lib/libsubdec.so
+754f6000-754fd000 r-xp 00000000 103:0f 983       /system/lib/libhi_subtitle.so
+754fd000-754fe000 r--p 00006000 103:0f 983       /system/lib/libhi_subtitle.so
+754fe000-754ff000 rw-p 00007000 103:0f 983       /system/lib/libhi_subtitle.so
+754ff000-75500000 r-xp 00000000 103:0f 999       /system/lib/libhiplayer_utils.so
+75500000-75501000 r--p 00000000 103:0f 999       /system/lib/libhiplayer_utils.so
+75501000-75502000 rw-p 00001000 103:0f 999       /system/lib/libhiplayer_utils.so
+75502000-75505000 r-xp 00000000 103:0f 904       /system/lib/libcharsetMgr.so
+75505000-75506000 r--p 00002000 103:0f 904       /system/lib/libcharsetMgr.so
+75506000-75507000 rw-p 00003000 103:0f 904       /system/lib/libcharsetMgr.so
+75507000-75518000 r-xp 00000000 103:0f 862       /system/lib/libRScpp.so
+75518000-75519000 ---p 00000000 00:00 0 
+75519000-7551a000 r--p 00011000 103:0f 862       /system/lib/libRScpp.so
+7551a000-7551b000 rw-p 00012000 103:0f 862       /system/lib/libRScpp.so
+7551b000-75d04000 r-xp 00000000 103:0f 851       /system/lib/libLLVM.so
+75d04000-75d05000 ---p 00000000 00:00 0 
+75d05000-75d34000 r--p 007e9000 103:0f 851       /system/lib/libLLVM.so
+75d34000-75d36000 rw-p 00818000 103:0f 851       /system/lib/libLLVM.so
+75d36000-75d3c000 rw-p 00000000 00:00 0 
+75d3c000-75d3d000 r--p 00000000 00:00 0 
+75d3d000-75d7c000 r-xp 00000000 103:0f 885       /system/lib/libbcinfo.so
+75d7c000-75d7d000 r--p 0003e000 103:0f 885       /system/lib/libbcinfo.so
+75d7d000-75d7e000 rw-p 0003f000 103:0f 885       /system/lib/libbcinfo.so
+75d7e000-75da1000 r-xp 00000000 103:0f 884       /system/lib/libbcc.so
+75da1000-75da2000 ---p 00000000 00:00 0 
+75da2000-75da3000 r--p 00023000 103:0f 884       /system/lib/libbcc.so
+75da3000-75da4000 rw-p 00024000 103:0f 884       /system/lib/libbcc.so
+75da4000-75dc4000 rw-p 00000000 00:00 0 
+75dc4000-75df5000 r-xp 00000000 103:0f 858       /system/lib/libRS.so
+75df5000-75df6000 ---p 00000000 00:00 0 
+75df6000-75df7000 r--p 00031000 103:0f 858       /system/lib/libRS.so
+75df7000-75df8000 rw-p 00032000 103:0f 858       /system/lib/libRS.so
+75df8000-75e2a000 r-xp 00000000 103:0f 1004      /system/lib/libhwui.so
+75e2a000-75e2b000 ---p 00000000 00:00 0 
+75e2b000-75e2d000 r--p 00032000 103:0f 1004      /system/lib/libhwui.so
+75e2d000-75e2e000 rw-p 00034000 103:0f 1004      /system/lib/libhwui.so
+75e2e000-75e35000 r-xp 00000000 103:0f 990       /system/lib/libhidisplayclient.so
+75e35000-75e36000 ---p 00000000 00:00 0 
+75e36000-75e38000 r--p 00007000 103:0f 990       /system/lib/libhidisplayclient.so
+75e38000-75e39000 rw-p 00009000 103:0f 990       /system/lib/libhidisplayclient.so
+75e39000-75eba000 r-xp 00000000 103:0f 876       /system/lib/libasound.so
+75eba000-75ebb000 ---p 00000000 00:00 0 
+75ebb000-75ebe000 r--p 00081000 103:0f 876       /system/lib/libasound.so
+75ebe000-75ebf000 rw-p 00084000 103:0f 876       /system/lib/libasound.so
+75ebf000-75efa000 r-xp 00000000 103:0f 972       /system/lib/libhi_karaoke.so
+75efa000-75efb000 r--p 0003a000 103:0f 972       /system/lib/libhi_karaoke.so
+75efb000-75efc000 rw-p 0003b000 103:0f 972       /system/lib/libhi_karaoke.so
+75efc000-75f0b000 r-xp 00000000 103:0f 995       /system/lib/libhikaraokeservice.so
+75f0b000-75f0e000 r--p 0000e000 103:0f 995       /system/lib/libhikaraokeservice.so
+75f0e000-75f0f000 rw-p 00011000 103:0f 995       /system/lib/libhikaraokeservice.so
+75f0f000-75f57000 r-xp 00000000 103:0f 965       /system/lib/libharfbuzz_ng.so
+75f57000-75f58000 r--p 00047000 103:0f 965       /system/lib/libharfbuzz_ng.so
+75f58000-75f59000 rw-p 00048000 103:0f 965       /system/lib/libharfbuzz_ng.so
+75f59000-75f5b000 r-xp 00000000 103:0f 1147      /system/lib/libusbhost.so
+75f5b000-75f5c000 r--p 00001000 103:0f 1147      /system/lib/libusbhost.so
+75f5c000-75f5d000 rw-p 00002000 103:0f 1147      /system/lib/libusbhost.so
+75f5d000-75f67000 r-xp 00000000 103:0f 1083      /system/lib/libselinux.so
+75f67000-75f68000 ---p 00000000 00:00 0 
+75f68000-75f69000 r--p 0000a000 103:0f 1083      /system/lib/libselinux.so
+75f69000-75f6a000 rw-p 0000b000 103:0f 1083      /system/lib/libselinux.so
+75f6a000-75f6c000 r-xp 00000000 103:0f 825       /system/lib/libETC1.so
+75f6c000-75f6d000 r--p 00001000 103:0f 825       /system/lib/libETC1.so
+75f6d000-75f6e000 rw-p 00002000 103:0f 825       /system/lib/libETC1.so
+75f6e000-75f73000 r-xp 00000000 103:0f 828       /system/lib/libGLESv1_CM.so
+75f73000-75f74000 r--p 00004000 103:0f 828       /system/lib/libGLESv1_CM.so
+75f74000-75f75000 rw-p 00005000 103:0f 828       /system/lib/libGLESv1_CM.so
+75f75000-75fc4000 r-xp 00000000 103:0f 1095      /system/lib/libsqlite.so
+75fc4000-75fc5000 ---p 00000000 00:00 0 
+75fc5000-75fc6000 r--p 0004f000 103:0f 1095      /system/lib/libsqlite.so
+75fc6000-75fc7000 rw-p 00050000 103:0f 1095      /system/lib/libsqlite.so
+75fc7000-75fc8000 r--p 00000000 00:00 0 
+75fc8000-75fc9000 r-xp 00000000 103:0f 1016      /system/lib/libion.so
+75fc9000-75fca000 r--p 00000000 103:0f 1016      /system/lib/libion.so
+75fca000-75fcb000 rw-p 00001000 103:0f 1016      /system/lib/libion.so
+75fcb000-75fe4000 r-xp 00000000 103:0f 1063      /system/lib/libpng.so
+75fe4000-75fe5000 r--p 00018000 103:0f 1063      /system/lib/libpng.so
+75fe5000-75fe6000 rw-p 00019000 103:0f 1063      /system/lib/libpng.so
+75fe6000-76035000 r-xp 00000000 103:0f 957       /system/lib/libft2.so
+76035000-76036000 ---p 00000000 00:00 0 
+76036000-76037000 r--p 0004f000 103:0f 957       /system/lib/libft2.so
+76037000-76038000 rw-p 00050000 103:0f 957       /system/lib/libft2.so
+76038000-761dd000 r-xp 00000000 103:0f 1087      /system/lib/libskia.so
+761dd000-761de000 ---p 00000000 00:00 0 
+761de000-761ee000 r--p 001a5000 103:0f 1087      /system/lib/libskia.so
+761ee000-761f0000 rw-p 001b5000 103:0f 1087      /system/lib/libskia.so
+761f0000-761f6000 rw-p 00000000 00:00 0 
+761f6000-7620a000 r-xp 00000000 103:0f 1014      /system/lib/libinput.so
+7620a000-7620c000 r--p 00013000 103:0f 1014      /system/lib/libinput.so
+7620c000-7620d000 rw-p 00015000 103:0f 1014      /system/lib/libinput.so
+7620d000-76211000 r-xp 00000000 103:0f 1048      /system/lib/libnativehelper.so
+76211000-76212000 r--p 00003000 103:0f 1048      /system/lib/libnativehelper.so
+76212000-76213000 rw-p 00004000 103:0f 1048      /system/lib/libnativehelper.so
+76213000-76232000 r-xp 00000000 103:0f 872       /system/lib/libandroidfw.so
+76232000-76233000 ---p 00000000 00:00 0 
+76233000-76234000 r--p 0001f000 103:0f 872       /system/lib/libandroidfw.so
+76234000-76235000 rw-p 00020000 103:0f 872       /system/lib/libandroidfw.so
+76235000-76236000 r-xp 00000000 103:0f 1043      /system/lib/libmemtrack.so
+76236000-76237000 r--p 00000000 103:0f 1043      /system/lib/libmemtrack.so
+76237000-76238000 rw-p 00001000 103:0f 1043      /system/lib/libmemtrack.so
+76238000-762e0000 r-xp 00000000 103:0f 870       /system/lib/libandroid_runtime.so
+762e0000-762e1000 ---p 00000000 00:00 0 
+762e1000-762e6000 r--p 000a8000 103:0f 870       /system/lib/libandroid_runtime.so
+762e6000-762ed000 rw-p 000ad000 103:0f 870       /system/lib/libandroid_runtime.so
+762ed000-762ee000 rw-p 00000000 00:00 0 
+762ee000-76340000 r-xp 00000000 103:0f 998       /system/lib/libhiplayer_adapter.so
+76340000-76341000 ---p 00000000 00:00 0 
+76341000-76343000 r--p 00052000 103:0f 998       /system/lib/libhiplayer_adapter.so
+76343000-76344000 rw-p 00054000 103:0f 998       /system/lib/libhiplayer_adapter.so
+76344000-7634c000 r-xp 00000000 103:0f 1000      /system/lib/libhisysmanagerclient.so
+7634c000-7634e000 r--p 00007000 103:0f 1000      /system/lib/libhisysmanagerclient.so
+7634e000-7634f000 rw-p 00009000 103:0f 1000      /system/lib/libhisysmanagerclient.so
+7634f000-7642c000 r-xp 00000000 103:0f 973       /system/lib/libhi_msp.so
+7642c000-7642d000 ---p 00000000 00:00 0 
+7642d000-7642e000 r--p 000dd000 103:0f 973       /system/lib/libhi_msp.so
+7642e000-7642f000 rw-p 000de000 103:0f 973       /system/lib/libhi_msp.so
+7642f000-76439000 rw-p 00000000 00:00 0 
+76439000-7645e000 r-xp 00000000 103:0f 1124      /system/lib/libstagefright_wfd.so
+7645e000-76460000 r--p 00024000 103:0f 1124      /system/lib/libstagefright_wfd.so
+76460000-76461000 rw-p 00026000 103:0f 1124      /system/lib/libstagefright_wfd.so
+76461000-76474000 r-xp 00000000 103:0f 1105      /system/lib/libstagefright_httplive.so
+76474000-76475000 r--p 00012000 103:0f 1105      /system/lib/libstagefright_httplive.so
+76475000-76476000 rw-p 00013000 103:0f 1105      /system/lib/libstagefright_httplive.so
+76476000-76477000 r--p 00000000 00:00 0 
+76477000-76478000 r-xp 00000000 103:0f 980       /system/lib/libhi_smoothstreaming.so
+76478000-76479000 r--p 00000000 103:0f 980       /system/lib/libhi_smoothstreaming.so
+76479000-7647a000 rw-p 00001000 103:0f 980       /system/lib/libhi_smoothstreaming.so
+7647a000-7647f000 r-xp 00000000 103:0f 1101      /system/lib/libstagefright_avc_common.so
+7647f000-76480000 r--p 00004000 103:0f 1101      /system/lib/libstagefright_avc_common.so
+76480000-76481000 rw-p 00005000 103:0f 1101      /system/lib/libstagefright_avc_common.so
+76481000-76482000 r-xp 00000000 103:0f 1103      /system/lib/libstagefright_enc_common.so
+76482000-76483000 r--p 00000000 103:0f 1103      /system/lib/libstagefright_enc_common.so
+76483000-76484000 rw-p 00001000 103:0f 1103      /system/lib/libstagefright_enc_common.so
+76484000-76492000 r-xp 00000000 103:0f 968       /system/lib/libhi_common.so
+76492000-76493000 r--p 0000d000 103:0f 968       /system/lib/libhi_common.so
+76493000-76494000 rw-p 0000e000 103:0f 968       /system/lib/libhi_common.so
+76494000-76496000 rw-p 00000000 00:00 0 
+76496000-764ae000 r-xp 00000000 103:0f 1151      /system/lib/libvorbisidec.so
+764ae000-764af000 r--p 00017000 103:0f 1151      /system/lib/libvorbisidec.so
+764af000-764b0000 rw-p 00018000 103:0f 1151      /system/lib/libvorbisidec.so
+764b0000-764b2000 r-xp 00000000 103:0f 1125      /system/lib/libstagefright_yuv.so
+764b2000-764b3000 r--p 00001000 103:0f 1125      /system/lib/libstagefright_yuv.so
+764b3000-764b4000 rw-p 00002000 103:0f 1125      /system/lib/libstagefright_yuv.so
+764b4000-764cb000 r-xp 00000000 103:0f 1106      /system/lib/libstagefright_omx.so
+764cb000-764cc000 ---p 00000000 00:00 0 
+764cc000-764ce000 r--p 00017000 103:0f 1106      /system/lib/libstagefright_omx.so
+764ce000-764cf000 rw-p 00019000 103:0f 1106      /system/lib/libstagefright_omx.so
+764cf000-765a7000 r-xp 00000000 103:0f 915       /system/lib/libcrypto.so
+765a7000-765b3000 r--p 000d7000 103:0f 915       /system/lib/libcrypto.so
+765b3000-765b9000 rw-p 000e3000 103:0f 915       /system/lib/libcrypto.so
+765b9000-765bb000 rw-p 00000000 00:00 0 
+765bb000-765f3000 r-xp 00000000 103:0f 1098      /system/lib/libssl.so
+765f3000-765f4000 ---p 00000000 00:00 0 
+765f4000-765f6000 r--p 00038000 103:0f 1098      /system/lib/libssl.so
+765f6000-765f9000 rw-p 0003a000 103:0f 1098      /system/lib/libssl.so
+765f9000-76729000 r-xp 00000000 103:0f 1006      /system/lib/libicui18n.so
+76729000-7672a000 ---p 00000000 00:00 0 
+7672a000-76731000 r--p 00130000 103:0f 1006      /system/lib/libicui18n.so
+76731000-76732000 rw-p 00137000 103:0f 1006      /system/lib/libicui18n.so
+76732000-76746000 r-xp 00000000 103:0f 926       /system/lib/libdrmframework.so
+76746000-76749000 r--p 00013000 103:0f 926       /system/lib/libdrmframework.so
+76749000-7674a000 rw-p 00016000 103:0f 926       /system/lib/libdrmframework.so
+7674a000-7674b000 r-xp 00000000 103:0f 913       /system/lib/libconnectivitymanager.so
+7674b000-7674c000 r--p 00000000 103:0f 913       /system/lib/libconnectivitymanager.so
+7674c000-7674d000 rw-p 00001000 103:0f 913       /system/lib/libconnectivitymanager.so
+7674d000-76842000 r-xp 00000000 103:0f 1099      /system/lib/libstagefright.so
+76842000-76843000 ---p 00000000 00:00 0 
+76843000-76849000 r--p 000f5000 103:0f 1099      /system/lib/libstagefright.so
+76849000-7684a000 rw-p 000fb000 103:0f 1099      /system/lib/libstagefright.so
+7684a000-768cf000 r-xp 00000000 103:0f 1041      /system/lib/libmediaplayerservice.so
+768cf000-768d7000 r--p 00084000 103:0f 1041      /system/lib/libmediaplayerservice.so
+768d7000-768d8000 rw-p 0008c000 103:0f 1041      /system/lib/libmediaplayerservice.so
+768d8000-768d9000 r--p 00000000 00:00 0 
+768d9000-768dd000 r-xp 00000000 103:0f 1040      /system/lib/libmedialogservice.so
+768dd000-768de000 r--p 00003000 103:0f 1040      /system/lib/libmedialogservice.so
+768de000-768df000 rw-p 00004000 103:0f 1040      /system/lib/libmedialogservice.so
+768df000-7692f000 r-xp 00000000 103:0f 1030      /system/lib/libjpeg.so
+7692f000-76930000 r--p 0004f000 103:0f 1030      /system/lib/libjpeg.so
+76930000-76931000 rw-p 00050000 103:0f 1030      /system/lib/libjpeg.so
+76931000-769a2000 r-xp 00000000 103:0f 900       /system/lib/libcameraservice.so
+769a2000-769a3000 ---p 00000000 00:00 0 
+769a3000-769ad000 r--p 00071000 103:0f 900       /system/lib/libcameraservice.so
+769ad000-769ae000 rw-p 0007b000 103:0f 900       /system/lib/libcameraservice.so
+769ae000-769b1000 r-xp 00000000 103:0f 1067      /system/lib/libpowermanager.so
+769b1000-769b2000 r--p 00002000 103:0f 1067      /system/lib/libpowermanager.so
+769b2000-769b3000 rw-p 00003000 103:0f 1067      /system/lib/libpowermanager.so
+769b3000-769b5000 r-xp 00000000 103:0f 935       /system/lib/libeffects.so
+769b5000-769b6000 r--p 00001000 103:0f 935       /system/lib/libeffects.so
+769b6000-769b7000 rw-p 00002000 103:0f 935       /system/lib/libeffects.so
+769b7000-76a04000 r-xp 00000000 103:0f 1064      /system/lib/libpolarssl.so
+76a04000-76a07000 r--p 0004c000 103:0f 1064      /system/lib/libpolarssl.so
+76a07000-76a0a000 rw-p 0004f000 103:0f 1064      /system/lib/libpolarssl.so
+76a0a000-76a0c000 rw-p 00000000 00:00 0 
+76a0c000-76a0d000 r-xp 00000000 103:0f 970       /system/lib/libhi_dhcp_plus.so
+76a0d000-76a0e000 r--p 00000000 103:0f 970       /system/lib/libhi_dhcp_plus.so
+76a0e000-76a0f000 rw-p 00001000 103:0f 970       /system/lib/libhi_dhcp_plus.so
+76a0f000-76a17000 r-xp 00000000 103:0f 1054      /system/lib/libnetutils.so
+76a17000-76a18000 r--p 00007000 103:0f 1054      /system/lib/libnetutils.so
+76a18000-76a19000 rw-p 00008000 103:0f 1054      /system/lib/libnetutils.so
+76a19000-76a1b000 r-xp 00000000 103:0f 1161      /system/lib/libwpa_client.so
+76a1b000-76a1c000 r--p 00001000 103:0f 1161      /system/lib/libwpa_client.so
+76a1c000-76a1d000 rw-p 00002000 103:0f 1161      /system/lib/libwpa_client.so
+76a1d000-76a22000 r-xp 00000000 103:0f 963       /system/lib/libhardware_legacy.so
+76a22000-76a23000 r--p 00004000 103:0f 963       /system/lib/libhardware_legacy.so
+76a23000-76a74000 rw-p 00005000 103:0f 963       /system/lib/libhardware_legacy.so
+76a74000-76a75000 rw-p 00000000 00:00 0 
+76a75000-76a7b000 r-xp 00000000 103:0f 1049      /system/lib/libnbaio.so
+76a7b000-76a7c000 r--p 00005000 103:0f 1049      /system/lib/libnbaio.so
+76a7c000-76a7d000 rw-p 00006000 103:0f 1049      /system/lib/libnbaio.so
+76a7d000-76a93000 r-xp 00000000 103:0f 1162      /system/lib/libz.so
+76a93000-76a94000 ---p 00000000 00:00 0 
+76a94000-76a95000 r--p 00016000 103:0f 1162      /system/lib/libz.so
+76a95000-76a96000 rw-p 00017000 103:0f 1162      /system/lib/libz.so
+76a96000-76ad2000 r-xp 00000000 103:0f 891       /system/lib/libbluray_ex.so
+76ad2000-76ad4000 r--p 0003b000 103:0f 891       /system/lib/libbluray_ex.so
+76ad4000-76ad5000 rw-p 0003d000 103:0f 891       /system/lib/libbluray_ex.so
+76ad5000-76ae5000 r-xp 00000000 103:0f 1104      /system/lib/libstagefright_foundation.so
+76ae5000-76ae6000 r--p 0000f000 103:0f 1104      /system/lib/libstagefright_foundation.so
+76ae6000-76ae7000 rw-p 00010000 103:0f 1104      /system/lib/libstagefright_foundation.so
+76ae7000-76ae8000 r--p 00000000 00:00 0 
+76ae8000-76aed000 r-xp 00000000 103:0f 899       /system/lib/libcamera_metadata.so
+76aed000-76aee000 r--p 00004000 103:0f 899       /system/lib/libcamera_metadata.so
+76aee000-76aef000 rw-p 00005000 103:0f 899       /system/lib/libcamera_metadata.so
+76aef000-76af5000 r-xp 00000000 103:0f 829       /system/lib/libGLESv2.so
+76af5000-76af6000 r--p 00005000 103:0f 829       /system/lib/libGLESv2.so
+76af6000-76af7000 rw-p 00006000 103:0f 829       /system/lib/libGLESv2.so
+76af7000-76b43000 r-xp 00000000 103:0f 827       /system/lib/libGLES_trace.so
+76b43000-76b44000 ---p 00000000 00:00 0 
+76b44000-76b45000 r--p 0004c000 103:0f 827       /system/lib/libGLES_trace.so
+76b45000-76b46000 rw-p 0004d000 103:0f 827       /system/lib/libGLES_trace.so
+76b46000-76b90000 r-xp 00000000 103:0f 824       /system/lib/libEGL.so
+76b90000-76b92000 r--p 00049000 103:0f 824       /system/lib/libEGL.so
+76b92000-76b98000 rw-p 0004b000 103:0f 824       /system/lib/libEGL.so
+76b98000-76b9b000 rw-p 00000000 00:00 0 
+76b9b000-76bd0000 r-xp 00000000 103:0f 961       /system/lib/libgui.so
+76bd0000-76bd9000 r--p 00034000 103:0f 961       /system/lib/libgui.so
+76bd9000-76bda000 rw-p 0003d000 103:0f 961       /system/lib/libgui.so
+76bda000-76c03000 r-xp 00000000 103:0f 898       /system/lib/libcamera_client.so
+76c03000-76c04000 ---p 00000000 00:00 0 
+76c04000-76c0d000 r--p 00029000 103:0f 898       /system/lib/libcamera_client.so
+76c0d000-76c0e000 rw-p 00032000 103:0f 898       /system/lib/libcamera_client.so
+76c0e000-76c21000 r-xp 00000000 103:0f 938       /system/lib/libexpat.so
+76c21000-76c22000 ---p 00000000 00:00 0 
+76c22000-76c24000 r--p 00013000 103:0f 938       /system/lib/libexpat.so
+76c24000-76c25000 rw-p 00015000 103:0f 938       /system/lib/libexpat.so
+76c25000-76c57000 r-xp 00000000 103:0f 1128      /system/lib/libstlport.so
+76c57000-76c59000 r--p 00031000 103:0f 1128      /system/lib/libstlport.so
+76c59000-76c5a000 rw-p 00033000 103:0f 1128      /system/lib/libstlport.so
+76c5a000-76c5e000 r-xp 00000000 103:0f 958       /system/lib/libgabi++.so
+76c5e000-76c5f000 r--p 00003000 103:0f 958       /system/lib/libgabi++.so
+76c5f000-76c60000 rw-p 00004000 103:0f 958       /system/lib/libgabi++.so
+76c60000-76d51000 r-xp 00000000 103:0f 1007      /system/lib/libicuuc.so
+76d51000-76d5a000 r--p 000f0000 103:0f 1007      /system/lib/libicuuc.so
+76d5a000-76d5b000 rw-p 000f9000 103:0f 1007      /system/lib/libicuuc.so
+76d5b000-76d5f000 rw-p 00000000 00:00 0 
+76d5f000-76dad000 r-xp 00000000 103:0f 1091      /system/lib/libsonivox.so
+76dad000-76dae000 r--p 0004d000 103:0f 1091      /system/lib/libsonivox.so
+76dae000-76daf000 rw-p 0004e000 103:0f 1091      /system/lib/libsonivox.so
+76daf000-76db4000 rw-p 00000000 00:00 0 
+76db4000-76db5000 r-xp 00000000 103:0f 1134      /system/lib/libsync.so
+76db5000-76db6000 r--p 00000000 103:0f 1134      /system/lib/libsync.so
+76db6000-76db7000 rw-p 00001000 103:0f 1134      /system/lib/libsync.so
+76db7000-76dc0000 r-xp 00000000 103:0f 1145      /system/lib/libui.so
+76dc0000-76dc1000 r--p 00008000 103:0f 1145      /system/lib/libui.so
+76dc1000-76dc2000 rw-p 00009000 103:0f 1145      /system/lib/libui.so
+76dc2000-76e44000 r-xp 00000000 103:0f 1038      /system/lib/libmedia.so
+76e44000-76e5c000 r--p 00081000 103:0f 1038      /system/lib/libmedia.so
+76e5c000-76e5d000 rw-p 00099000 103:0f 1038      /system/lib/libmedia.so
+76e5d000-76e5e000 r--p 00000000 00:00 0 
+76e5e000-76e5f000 r-xp 00000000 103:0f 962       /system/lib/libhardware.so
+76e5f000-76e60000 r--p 00000000 103:0f 962       /system/lib/libhardware.so
+76e60000-76e61000 rw-p 00001000 103:0f 962       /system/lib/libhardware.so
+76e61000-76e65000 r-xp 00000000 103:0f 959       /system/lib/libgccdemangle.so
+76e65000-76e66000 ---p 00000000 00:00 0 
+76e66000-76e67000 r--p 00004000 103:0f 959       /system/lib/libgccdemangle.so
+76e67000-76e68000 rw-p 00005000 103:0f 959       /system/lib/libgccdemangle.so
+76e68000-76e6b000 r-xp 00000000 103:0f 914       /system/lib/libcorkscrew.so
+76e6b000-76e6c000 r--p 00002000 103:0f 914       /system/lib/libcorkscrew.so
+76e6c000-76e6d000 rw-p 00003000 103:0f 914       /system/lib/libcorkscrew.so
+76e6d000-76e80000 r-xp 00000000 103:0f 1148      /system/lib/libutils.so
+76e80000-76e81000 ---p 00000000 00:00 0 
+76e81000-76e82000 r--p 00013000 103:0f 1148      /system/lib/libutils.so
+76e82000-76e83000 rw-p 00014000 103:0f 1148      /system/lib/libutils.so
+76e83000-76ea8000 r-xp 00000000 103:0f 887       /system/lib/libbinder.so
+76ea8000-76ea9000 ---p 00000000 00:00 0 
+76ea9000-76eaf000 r--p 00025000 103:0f 887       /system/lib/libbinder.so
+76eaf000-76eb0000 rw-p 0002b000 103:0f 887       /system/lib/libbinder.so
+76eb0000-76ebb000 r-xp 00000000 103:0f 911       /system/lib/libcommon_time_client.so
+76ebb000-76ebc000 ---p 00000000 00:00 0 
+76ebc000-76ebf000 r--p 0000b000 103:0f 911       /system/lib/libcommon_time_client.so
+76ebf000-76ec0000 rw-p 0000e000 103:0f 911       /system/lib/libcommon_time_client.so
+76ec0000-76ec4000 r-xp 00000000 103:0f 1094      /system/lib/libspeexresampler.so
+76ec4000-76ec5000 r--p 00003000 103:0f 1094      /system/lib/libspeexresampler.so
+76ec5000-76ec6000 rw-p 00004000 103:0f 1094      /system/lib/libspeexresampler.so
+76ec6000-76ede000 r-xp 00000000 103:0f 1036      /system/lib/libm.so
+76ede000-76edf000 r--p 00017000 103:0f 1036      /system/lib/libm.so
+76edf000-76ee0000 rw-p 00018000 103:0f 1036      /system/lib/libm.so
+76ee0000-76ee1000 r-xp 00000000 103:0f 1127      /system/lib/libstdc++.so
+76ee1000-76ee2000 r--p 00000000 103:0f 1127      /system/lib/libstdc++.so
+76ee2000-76ee3000 rw-p 00001000 103:0f 1127      /system/lib/libstdc++.so
+76ee3000-76f2b000 r-xp 00000000 103:0f 894       /system/lib/libc.so
+76f2b000-76f2d000 r--p 00047000 103:0f 894       /system/lib/libc.so
+76f2d000-76f30000 rw-p 00049000 103:0f 894       /system/lib/libc.so
+76f30000-76f3e000 rw-p 00000000 00:00 0 
+76f3e000-76f41000 r-xp 00000000 103:0f 1034      /system/lib/liblog.so
+76f41000-76f42000 r--p 00002000 103:0f 1034      /system/lib/liblog.so
+76f42000-76f43000 rw-p 00003000 103:0f 1034      /system/lib/liblog.so
+76f43000-76f4c000 r-xp 00000000 103:0f 917       /system/lib/libcutils.so
+76f4c000-76f4d000 r--p 00008000 103:0f 917       /system/lib/libcutils.so
+76f4d000-76f4e000 rw-p 00009000 103:0f 917       /system/lib/libcutils.so
+76f4e000-76f50000 r-xp 00000000 103:0f 879       /system/lib/libaudioutils.so
+76f50000-76f51000 r--p 00001000 103:0f 879       /system/lib/libaudioutils.so
+76f51000-76f52000 rw-p 00002000 103:0f 879       /system/lib/libaudioutils.so
+76f52000-76f84000 r-xp 00000000 103:0f 878       /system/lib/libaudioflinger.so
+76f84000-76f85000 ---p 00000000 00:00 0 
+76f85000-76f8b000 r--p 00032000 103:0f 878       /system/lib/libaudioflinger.so
+76f8b000-76f8c000 rw-p 00038000 103:0f 878       /system/lib/libaudioflinger.so
+76f8c000-76f8e000 r--p 00000000 00:00 0 
+76f8e000-76f90000 rw-p 00000000 00:00 0 
+76f90000-76f9f000 r-xp 00000000 103:0f 196       /system/bin/linker
+76f9f000-76fa0000 r--p 0000e000 103:0f 196       /system/bin/linker
+76fa0000-76fa1000 rw-p 0000f000 103:0f 196       /system/bin/linker
+76fa1000-76fa2000 rw-p 00000000 00:00 0 
+76fa2000-76fa4000 r-xp 00000000 103:0f 209       /system/bin/mediaserver
+76fa5000-76fa6000 r--p 00002000 103:0f 209       /system/bin/mediaserver
+76fa6000-76fa7000 rw-p 00000000 00:00 0 
+782ca000-79a25000 rw-p 00000000 00:00 0          [heap]
+7ea0f000-7ea30000 rw-p 00000000 00:00 0          [stack]
+ffff0000-ffff1000 r-xp 00000000 00:00 0          [vectors]

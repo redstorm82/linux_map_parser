@@ -1,0 +1,573 @@
+2b0b4000-2b0b6000 r-xp 00000000 103:0f 92        /system/bin/app_process
+2b0b6000-2b0b7000 r--p 00001000 103:0f 92        /system/bin/app_process
+2b0b7000-2b0b8000 rw-p 00000000 00:00 0 
+2b0b8000-2b0c7000 r-xp 00000000 103:0f 196       /system/bin/linker
+2b0c7000-2b0c8000 r--p 0000e000 103:0f 196       /system/bin/linker
+2b0c8000-2b0c9000 rw-p 0000f000 103:0f 196       /system/bin/linker
+2b0c9000-2b0ca000 rw-p 00000000 00:00 0 
+2b0ca000-2b0cc000 rw-p 00000000 00:00 0 
+2b0cc000-2b0cd000 r--p 00000000 00:00 0 
+2b0cd000-2b0ce000 rw-p 00000000 00:00 0 
+2b0ce000-2b0d7000 r-xp 00000000 103:0f 917       /system/lib/libcutils.so
+2b0d7000-2b0d8000 r--p 00008000 103:0f 917       /system/lib/libcutils.so
+2b0d8000-2b0d9000 rw-p 00009000 103:0f 917       /system/lib/libcutils.so
+2b0d9000-2b0dc000 r-xp 00000000 103:0f 1034      /system/lib/liblog.so
+2b0dc000-2b0dd000 r--p 00002000 103:0f 1034      /system/lib/liblog.so
+2b0dd000-2b0de000 rw-p 00003000 103:0f 1034      /system/lib/liblog.so
+2b0de000-2b126000 r-xp 00000000 103:0f 894       /system/lib/libc.so
+2b126000-2b128000 r--p 00047000 103:0f 894       /system/lib/libc.so
+2b128000-2b12b000 rw-p 00049000 103:0f 894       /system/lib/libc.so
+2b12b000-2b139000 rw-p 00000000 00:00 0 
+2b139000-2b13a000 r-xp 00000000 103:0f 1127      /system/lib/libstdc++.so
+2b13a000-2b13b000 r--p 00000000 103:0f 1127      /system/lib/libstdc++.so
+2b13b000-2b13c000 rw-p 00001000 103:0f 1127      /system/lib/libstdc++.so
+2b13c000-2b154000 r-xp 00000000 103:0f 1036      /system/lib/libm.so
+2b154000-2b155000 r--p 00017000 103:0f 1036      /system/lib/libm.so
+2b155000-2b156000 rw-p 00018000 103:0f 1036      /system/lib/libm.so
+2b156000-2b169000 r-xp 00000000 103:0f 1148      /system/lib/libutils.so
+2b169000-2b16a000 ---p 00000000 00:00 0 
+2b16a000-2b16b000 r--p 00013000 103:0f 1148      /system/lib/libutils.so
+2b16b000-2b16c000 rw-p 00014000 103:0f 1148      /system/lib/libutils.so
+2b16c000-2b16f000 r-xp 00000000 103:0f 914       /system/lib/libcorkscrew.so
+2b16f000-2b170000 r--p 00002000 103:0f 914       /system/lib/libcorkscrew.so
+2b170000-2b171000 rw-p 00003000 103:0f 914       /system/lib/libcorkscrew.so
+2b171000-2b175000 r-xp 00000000 103:0f 959       /system/lib/libgccdemangle.so
+2b175000-2b176000 ---p 00000000 00:00 0 
+2b176000-2b177000 r--p 00004000 103:0f 959       /system/lib/libgccdemangle.so
+2b177000-2b178000 rw-p 00005000 103:0f 959       /system/lib/libgccdemangle.so
+2b178000-2b19d000 r-xp 00000000 103:0f 887       /system/lib/libbinder.so
+2b19d000-2b19e000 ---p 00000000 00:00 0 
+2b19e000-2b1a4000 r--p 00025000 103:0f 887       /system/lib/libbinder.so
+2b1a4000-2b1a5000 rw-p 0002b000 103:0f 887       /system/lib/libbinder.so
+2b1a5000-2b24d000 r-xp 00000000 103:0f 870       /system/lib/libandroid_runtime.so
+2b24d000-2b24e000 ---p 00000000 00:00 0 
+2b24e000-2b253000 r--p 000a8000 103:0f 870       /system/lib/libandroid_runtime.so
+2b253000-2b25a000 rw-p 000ad000 103:0f 870       /system/lib/libandroid_runtime.so
+2b25a000-2b25b000 rw-p 00000000 00:00 0 
+2b25b000-2b25c000 r-xp 00000000 103:0f 1043      /system/lib/libmemtrack.so
+2b25c000-2b25d000 r--p 00000000 103:0f 1043      /system/lib/libmemtrack.so
+2b25d000-2b25e000 rw-p 00001000 103:0f 1043      /system/lib/libmemtrack.so
+2b25e000-2b25f000 r-xp 00000000 103:0f 962       /system/lib/libhardware.so
+2b25f000-2b260000 r--p 00000000 103:0f 962       /system/lib/libhardware.so
+2b260000-2b261000 rw-p 00001000 103:0f 962       /system/lib/libhardware.so
+2b261000-2b280000 r-xp 00000000 103:0f 872       /system/lib/libandroidfw.so
+2b280000-2b281000 ---p 00000000 00:00 0 
+2b281000-2b282000 r--p 0001f000 103:0f 872       /system/lib/libandroidfw.so
+2b282000-2b283000 rw-p 00020000 103:0f 872       /system/lib/libandroidfw.so
+2b283000-2b299000 r-xp 00000000 103:0f 1162      /system/lib/libz.so
+2b299000-2b29a000 ---p 00000000 00:00 0 
+2b29a000-2b29b000 r--p 00016000 103:0f 1162      /system/lib/libz.so
+2b29b000-2b29c000 rw-p 00017000 103:0f 1162      /system/lib/libz.so
+2b29c000-2b29d000 r--p 00000000 00:00 0 
+2b29d000-2b2b0000 r-xp 00000000 103:0f 938       /system/lib/libexpat.so
+2b2b0000-2b2b1000 ---p 00000000 00:00 0 
+2b2b1000-2b2b3000 r--p 00013000 103:0f 938       /system/lib/libexpat.so
+2b2b3000-2b2b4000 rw-p 00015000 103:0f 938       /system/lib/libexpat.so
+2b2b4000-2b2b8000 r-xp 00000000 103:0f 1048      /system/lib/libnativehelper.so
+2b2b8000-2b2b9000 r--p 00003000 103:0f 1048      /system/lib/libnativehelper.so
+2b2b9000-2b2ba000 rw-p 00004000 103:0f 1048      /system/lib/libnativehelper.so
+2b2ba000-2b2ec000 r-xp 00000000 103:0f 1128      /system/lib/libstlport.so
+2b2ec000-2b2ee000 r--p 00031000 103:0f 1128      /system/lib/libstlport.so
+2b2ee000-2b2ef000 rw-p 00033000 103:0f 1128      /system/lib/libstlport.so
+2b2ef000-2b2f7000 r-xp 00000000 103:0f 1054      /system/lib/libnetutils.so
+2b2f7000-2b2f8000 r--p 00007000 103:0f 1054      /system/lib/libnetutils.so
+2b2f8000-2b2f9000 rw-p 00008000 103:0f 1054      /system/lib/libnetutils.so
+2b2f9000-2b2fa000 r-xp 00000000 103:0f 970       /system/lib/libhi_dhcp_plus.so
+2b2fa000-2b2fb000 r--p 00000000 103:0f 970       /system/lib/libhi_dhcp_plus.so
+2b2fb000-2b2fc000 rw-p 00001000 103:0f 970       /system/lib/libhi_dhcp_plus.so
+2b2fc000-2b349000 r-xp 00000000 103:0f 1064      /system/lib/libpolarssl.so
+2b349000-2b34c000 r--p 0004c000 103:0f 1064      /system/lib/libpolarssl.so
+2b34c000-2b34f000 rw-p 0004f000 103:0f 1064      /system/lib/libpolarssl.so
+2b34f000-2b351000 rw-p 00000000 00:00 0 
+2b351000-2b35a000 r-xp 00000000 103:0f 1145      /system/lib/libui.so
+2b35a000-2b35b000 r--p 00008000 103:0f 1145      /system/lib/libui.so
+2b35b000-2b35c000 rw-p 00009000 103:0f 1145      /system/lib/libui.so
+2b35c000-2b35d000 r-xp 00000000 103:0f 1134      /system/lib/libsync.so
+2b35d000-2b35e000 r--p 00000000 103:0f 1134      /system/lib/libsync.so
+2b35e000-2b35f000 rw-p 00001000 103:0f 1134      /system/lib/libsync.so
+2b35f000-2b394000 r-xp 00000000 103:0f 961       /system/lib/libgui.so
+2b394000-2b39d000 r--p 00034000 103:0f 961       /system/lib/libgui.so
+2b39d000-2b39e000 rw-p 0003d000 103:0f 961       /system/lib/libgui.so
+2b39e000-2b3e8000 r-xp 00000000 103:0f 824       /system/lib/libEGL.so
+2b3e8000-2b3ea000 r--p 00049000 103:0f 824       /system/lib/libEGL.so
+2b3ea000-2b3f0000 rw-p 0004b000 103:0f 824       /system/lib/libEGL.so
+2b3f0000-2b3f3000 rw-p 00000000 00:00 0 
+2b3f3000-2b43f000 r-xp 00000000 103:0f 827       /system/lib/libGLES_trace.so
+2b43f000-2b440000 ---p 00000000 00:00 0 
+2b440000-2b441000 r--p 0004c000 103:0f 827       /system/lib/libGLES_trace.so
+2b441000-2b442000 rw-p 0004d000 103:0f 827       /system/lib/libGLES_trace.so
+2b442000-2b448000 r-xp 00000000 103:0f 829       /system/lib/libGLESv2.so
+2b448000-2b449000 r--p 00005000 103:0f 829       /system/lib/libGLESv2.so
+2b449000-2b44a000 rw-p 00006000 103:0f 829       /system/lib/libGLESv2.so
+2b44a000-2b45e000 r-xp 00000000 103:0f 1014      /system/lib/libinput.so
+2b45e000-2b460000 r--p 00013000 103:0f 1014      /system/lib/libinput.so
+2b460000-2b461000 rw-p 00015000 103:0f 1014      /system/lib/libinput.so
+2b461000-2b48a000 r-xp 00000000 103:0f 898       /system/lib/libcamera_client.so
+2b48a000-2b48b000 ---p 00000000 00:00 0 
+2b48b000-2b494000 r--p 00029000 103:0f 898       /system/lib/libcamera_client.so
+2b494000-2b495000 rw-p 00032000 103:0f 898       /system/lib/libcamera_client.so
+2b495000-2b496000 r--p 00000000 00:00 0 
+2b496000-2b49b000 r-xp 00000000 103:0f 899       /system/lib/libcamera_metadata.so
+2b49b000-2b49c000 r--p 00004000 103:0f 899       /system/lib/libcamera_metadata.so
+2b49c000-2b49d000 rw-p 00005000 103:0f 899       /system/lib/libcamera_metadata.so
+2b49d000-2b642000 r-xp 00000000 103:0f 1087      /system/lib/libskia.so
+2b642000-2b643000 ---p 00000000 00:00 0 
+2b643000-2b653000 r--p 001a5000 103:0f 1087      /system/lib/libskia.so
+2b653000-2b655000 rw-p 001b5000 103:0f 1087      /system/lib/libskia.so
+2b655000-2b65b000 rw-p 00000000 00:00 0 
+2b65b000-2b6aa000 r-xp 00000000 103:0f 957       /system/lib/libft2.so
+2b6aa000-2b6ab000 ---p 00000000 00:00 0 
+2b6ab000-2b6ac000 r--p 0004f000 103:0f 957       /system/lib/libft2.so
+2b6ac000-2b6ad000 rw-p 00050000 103:0f 957       /system/lib/libft2.so
+2b6ad000-2b6c6000 r-xp 00000000 103:0f 1063      /system/lib/libpng.so
+2b6c6000-2b6c7000 r--p 00018000 103:0f 1063      /system/lib/libpng.so
+2b6c7000-2b6c8000 rw-p 00019000 103:0f 1063      /system/lib/libpng.so
+2b6c8000-2b718000 r-xp 00000000 103:0f 1030      /system/lib/libjpeg.so
+2b718000-2b719000 r--p 0004f000 103:0f 1030      /system/lib/libjpeg.so
+2b719000-2b71a000 rw-p 00050000 103:0f 1030      /system/lib/libjpeg.so
+2b71a000-2b7f7000 r-xp 00000000 103:0f 973       /system/lib/libhi_msp.so
+2b7f7000-2b7f8000 ---p 00000000 00:00 0 
+2b7f8000-2b7f9000 r--p 000dd000 103:0f 973       /system/lib/libhi_msp.so
+2b7f9000-2b7fa000 rw-p 000de000 103:0f 973       /system/lib/libhi_msp.so
+2b7fa000-2b804000 rw-p 00000000 00:00 0 
+2b804000-2b812000 r-xp 00000000 103:0f 968       /system/lib/libhi_common.so
+2b812000-2b813000 r--p 0000d000 103:0f 968       /system/lib/libhi_common.so
+2b813000-2b814000 rw-p 0000e000 103:0f 968       /system/lib/libhi_common.so
+2b814000-2b816000 rw-p 00000000 00:00 0 
+2b816000-2b8ee000 r-xp 00000000 103:0f 915       /system/lib/libcrypto.so
+2b8ee000-2b8fa000 r--p 000d7000 103:0f 915       /system/lib/libcrypto.so
+2b8fa000-2b900000 rw-p 000e3000 103:0f 915       /system/lib/libcrypto.so
+2b900000-2b902000 rw-p 00000000 00:00 0 
+2b902000-2b9f3000 r-xp 00000000 103:0f 1007      /system/lib/libicuuc.so
+2b9f3000-2b9fc000 r--p 000f0000 103:0f 1007      /system/lib/libicuuc.so
+2b9fc000-2b9fd000 rw-p 000f9000 103:0f 1007      /system/lib/libicuuc.so
+2b9fd000-2ba01000 rw-p 00000000 00:00 0 
+2ba01000-2ba05000 r-xp 00000000 103:0f 958       /system/lib/libgabi++.so
+2ba05000-2ba06000 r--p 00003000 103:0f 958       /system/lib/libgabi++.so
+2ba06000-2ba07000 rw-p 00004000 103:0f 958       /system/lib/libgabi++.so
+2ba07000-2bb37000 r-xp 00000000 103:0f 1006      /system/lib/libicui18n.so
+2bb37000-2bb38000 ---p 00000000 00:00 0 
+2bb38000-2bb3f000 r--p 00130000 103:0f 1006      /system/lib/libicui18n.so
+2bb3f000-2bb40000 rw-p 00137000 103:0f 1006      /system/lib/libicui18n.so
+2bb40000-2bb41000 r-xp 00000000 103:0f 1016      /system/lib/libion.so
+2bb41000-2bb42000 r--p 00000000 103:0f 1016      /system/lib/libion.so
+2bb42000-2bb43000 rw-p 00001000 103:0f 1016      /system/lib/libion.so
+2bb43000-2bb92000 r-xp 00000000 103:0f 1095      /system/lib/libsqlite.so
+2bb92000-2bb93000 ---p 00000000 00:00 0 
+2bb93000-2bb94000 r--p 0004f000 103:0f 1095      /system/lib/libsqlite.so
+2bb94000-2bb95000 rw-p 00050000 103:0f 1095      /system/lib/libsqlite.so
+2bb95000-2bb9a000 r-xp 00000000 103:0f 828       /system/lib/libGLESv1_CM.so
+2bb9a000-2bb9b000 r--p 00004000 103:0f 828       /system/lib/libGLESv1_CM.so
+2bb9b000-2bb9c000 rw-p 00005000 103:0f 828       /system/lib/libGLESv1_CM.so
+2bb9c000-2bb9d000 r--p 00000000 00:00 0 
+2bb9d000-2bb9f000 r-xp 00000000 103:0f 825       /system/lib/libETC1.so
+2bb9f000-2bba0000 r--p 00001000 103:0f 825       /system/lib/libETC1.so
+2bba0000-2bba1000 rw-p 00002000 103:0f 825       /system/lib/libETC1.so
+2bba1000-2bba6000 r-xp 00000000 103:0f 963       /system/lib/libhardware_legacy.so
+2bba6000-2bba7000 r--p 00004000 103:0f 963       /system/lib/libhardware_legacy.so
+2bba7000-2bbf8000 rw-p 00005000 103:0f 963       /system/lib/libhardware_legacy.so
+2bbf8000-2bbf9000 rw-p 00000000 00:00 0 
+2bbf9000-2bbfb000 r-xp 00000000 103:0f 1161      /system/lib/libwpa_client.so
+2bbfb000-2bbfc000 r--p 00001000 103:0f 1161      /system/lib/libwpa_client.so
+2bbfc000-2bbfd000 rw-p 00002000 103:0f 1161      /system/lib/libwpa_client.so
+2bbfd000-2bc07000 r-xp 00000000 103:0f 1083      /system/lib/libselinux.so
+2bc07000-2bc08000 ---p 00000000 00:00 0 
+2bc08000-2bc09000 r--p 0000a000 103:0f 1083      /system/lib/libselinux.so
+2bc09000-2bc0a000 rw-p 0000b000 103:0f 1083      /system/lib/libselinux.so
+2bc0a000-2bc58000 r-xp 00000000 103:0f 1091      /system/lib/libsonivox.so
+2bc58000-2bc59000 r--p 0004d000 103:0f 1091      /system/lib/libsonivox.so
+2bc59000-2bc5a000 rw-p 0004e000 103:0f 1091      /system/lib/libsonivox.so
+2bc5a000-2bc5f000 rw-p 00000000 00:00 0 
+2bc5f000-2bc97000 r-xp 00000000 103:0f 1098      /system/lib/libssl.so
+2bc97000-2bc98000 ---p 00000000 00:00 0 
+2bc98000-2bc9a000 r--p 00038000 103:0f 1098      /system/lib/libssl.so
+2bc9a000-2bc9d000 rw-p 0003a000 103:0f 1098      /system/lib/libssl.so
+2bc9d000-2bd1f000 r-xp 00000000 103:0f 1038      /system/lib/libmedia.so
+2bd1f000-2bd37000 r--p 00081000 103:0f 1038      /system/lib/libmedia.so
+2bd37000-2bd38000 rw-p 00099000 103:0f 1038      /system/lib/libmedia.so
+2bd38000-2bd48000 r-xp 00000000 103:0f 1104      /system/lib/libstagefright_foundation.so
+2bd48000-2bd49000 r--p 0000f000 103:0f 1104      /system/lib/libstagefright_foundation.so
+2bd49000-2bd4a000 rw-p 00010000 103:0f 1104      /system/lib/libstagefright_foundation.so
+2bd4a000-2bd4c000 r-xp 00000000 103:0f 879       /system/lib/libaudioutils.so
+2bd4c000-2bd4d000 r--p 00001000 103:0f 879       /system/lib/libaudioutils.so
+2bd4d000-2bd4e000 rw-p 00002000 103:0f 879       /system/lib/libaudioutils.so
+2bd4e000-2bd52000 r-xp 00000000 103:0f 1094      /system/lib/libspeexresampler.so
+2bd52000-2bd53000 r--p 00003000 103:0f 1094      /system/lib/libspeexresampler.so
+2bd53000-2bd54000 rw-p 00004000 103:0f 1094      /system/lib/libspeexresampler.so
+2bd54000-2bd90000 r-xp 00000000 103:0f 891       /system/lib/libbluray_ex.so
+2bd90000-2bd92000 r--p 0003b000 103:0f 891       /system/lib/libbluray_ex.so
+2bd92000-2bd93000 rw-p 0003d000 103:0f 891       /system/lib/libbluray_ex.so
+2bd93000-2bd95000 r-xp 00000000 103:0f 1147      /system/lib/libusbhost.so
+2bd95000-2bd96000 r--p 00001000 103:0f 1147      /system/lib/libusbhost.so
+2bd96000-2bd97000 rw-p 00002000 103:0f 1147      /system/lib/libusbhost.so
+2bd97000-2bddf000 r-xp 00000000 103:0f 965       /system/lib/libharfbuzz_ng.so
+2bddf000-2bde0000 r--p 00047000 103:0f 965       /system/lib/libharfbuzz_ng.so
+2bde0000-2bde1000 rw-p 00048000 103:0f 965       /system/lib/libharfbuzz_ng.so
+2bde1000-2bdf0000 r-xp 00000000 103:0f 995       /system/lib/libhikaraokeservice.so
+2bdf0000-2bdf3000 r--p 0000e000 103:0f 995       /system/lib/libhikaraokeservice.so
+2bdf3000-2bdf4000 rw-p 00011000 103:0f 995       /system/lib/libhikaraokeservice.so
+2bdf4000-2bdf5000 r--p 00000000 00:00 0 
+2bdf5000-2be30000 r-xp 00000000 103:0f 972       /system/lib/libhi_karaoke.so
+2be30000-2be31000 r--p 0003a000 103:0f 972       /system/lib/libhi_karaoke.so
+2be31000-2be32000 rw-p 0003b000 103:0f 972       /system/lib/libhi_karaoke.so
+2be32000-2beb3000 r-xp 00000000 103:0f 876       /system/lib/libasound.so
+2beb3000-2beb4000 ---p 00000000 00:00 0 
+2beb4000-2beb7000 r--p 00081000 103:0f 876       /system/lib/libasound.so
+2beb7000-2beb8000 rw-p 00084000 103:0f 876       /system/lib/libasound.so
+2beb8000-2bebf000 r-xp 00000000 103:0f 990       /system/lib/libhidisplayclient.so
+2bebf000-2bec0000 ---p 00000000 00:00 0 
+2bec0000-2bec2000 r--p 00007000 103:0f 990       /system/lib/libhidisplayclient.so
+2bec2000-2bec3000 rw-p 00009000 103:0f 990       /system/lib/libhidisplayclient.so
+2bec3000-2bef5000 r-xp 00000000 103:0f 1004      /system/lib/libhwui.so
+2bef5000-2bef6000 ---p 00000000 00:00 0 
+2bef6000-2bef8000 r--p 00032000 103:0f 1004      /system/lib/libhwui.so
+2bef8000-2bef9000 rw-p 00034000 103:0f 1004      /system/lib/libhwui.so
+2bef9000-2bf2a000 r-xp 00000000 103:0f 858       /system/lib/libRS.so
+2bf2a000-2bf2b000 ---p 00000000 00:00 0 
+2bf2b000-2bf2c000 r--p 00031000 103:0f 858       /system/lib/libRS.so
+2bf2c000-2bf2d000 rw-p 00032000 103:0f 858       /system/lib/libRS.so
+2bf2d000-2bf50000 r-xp 00000000 103:0f 884       /system/lib/libbcc.so
+2bf50000-2bf51000 ---p 00000000 00:00 0 
+2bf51000-2bf52000 r--p 00023000 103:0f 884       /system/lib/libbcc.so
+2bf52000-2bf53000 rw-p 00024000 103:0f 884       /system/lib/libbcc.so
+2bf53000-2bf73000 rw-p 00000000 00:00 0 
+2bf73000-2bfb2000 r-xp 00000000 103:0f 885       /system/lib/libbcinfo.so
+2bfb2000-2bfb3000 r--p 0003e000 103:0f 885       /system/lib/libbcinfo.so
+2bfb3000-2bfb4000 rw-p 0003f000 103:0f 885       /system/lib/libbcinfo.so
+2bfb4000-2c79d000 r-xp 00000000 103:0f 851       /system/lib/libLLVM.so
+2c79d000-2c79e000 ---p 00000000 00:00 0 
+2c79e000-2c7cd000 r--p 007e9000 103:0f 851       /system/lib/libLLVM.so
+2c7cd000-2c7cf000 rw-p 00818000 103:0f 851       /system/lib/libLLVM.so
+2c7cf000-2c7d5000 rw-p 00000000 00:00 0 
+2c7d5000-2c7e6000 r-xp 00000000 103:0f 862       /system/lib/libRScpp.so
+2c7e6000-2c7e7000 ---p 00000000 00:00 0 
+2c7e7000-2c7e8000 r--p 00011000 103:0f 862       /system/lib/libRScpp.so
+2c7e8000-2c7e9000 rw-p 00012000 103:0f 862       /system/lib/libRScpp.so
+2c7e9000-2c809000 r--s 00000000 00:0b 5146       /dev/__properties__
+2c809000-2c849000 r-xp 00000000 103:0f 895       /system/lib/libc_malloc_debug_leak.so
+2c849000-2c84b000 r--p 0003f000 103:0f 895       /system/lib/libc_malloc_debug_leak.so
+2c84b000-2c84e000 rw-p 00041000 103:0f 895       /system/lib/libc_malloc_debug_leak.so
+2c84e000-2c85b000 rw-p 00000000 00:00 0 
+2c85b000-2c85c000 r--p 00000000 00:00 0 
+2c85c000-2c863000 rw-p 00000000 00:00 0 
+2c863000-2c864000 r--p 00000000 00:00 0 
+2c864000-2c865000 rw-p 00000000 00:00 0 
+2c865000-2c866000 r--s 0012c000 103:0f 714       /system/framework/core.jar
+2c866000-2c90d000 r-xp 00000000 103:0f 933       /system/lib/libdvm.so
+2c90d000-2c911000 r--p 000a6000 103:0f 933       /system/lib/libdvm.so
+2c911000-2c916000 rw-p 000aa000 103:0f 933       /system/lib/libdvm.so
+2c916000-2c91a000 rw-p 00000000 00:00 0 
+2c91a000-2cbf4000 rw-p 00000000 00:04 3631       /dev/ashmem/dalvik-zygote (deleted)
+2cbf4000-3c91a000 rw-p 00000000 00:04 3890       /dev/ashmem/dalvik-heap (deleted)
+3c91a000-3cd1a000 rw-p 00000000 00:04 3632       /dev/ashmem/dalvik-bitmap-1 (deleted)
+3cd1a000-3d11a000 rw-p 00000000 00:04 3633       /dev/ashmem/dalvik-bitmap-2 (deleted)
+3d11a000-42670000 rw-p 00000000 00:04 3634       /dev/ashmem/dalvik-mark-stack (deleted)
+42670000-42871000 rw-p 00000000 00:04 3635       /dev/ashmem/dalvik-card-table (deleted)
+42871000-4287f000 rw-p 00000000 00:00 0 
+4287f000-42880000 ---p 00000000 00:04 3636       /dev/ashmem/dalvik-LinearAlloc (deleted)
+42880000-42bcc000 rw-p 00001000 00:04 3636       /dev/ashmem/dalvik-LinearAlloc (deleted)
+42bcc000-42c05000 rw-p 0034d000 00:04 3636       /dev/ashmem/dalvik-LinearAlloc (deleted)
+42c05000-4387f000 ---p 00386000 00:04 3636       /dev/ashmem/dalvik-LinearAlloc (deleted)
+4387f000-43884000 rw-p 00000000 00:00 0 
+43884000-43b9c000 r--p 00000000 103:10 56898     /data/dalvik-cache/system@framework@core.jar@classes.dex
+43b9c000-43bd2000 rw-p 00000000 00:04 359        /dev/ashmem/dalvik-aux-structure (deleted)
+43bd2000-43bda000 rw-p 00000000 00:04 3637       /dev/ashmem/dalvik-aux-structure (deleted)
+43bda000-43bdb000 rw-p 00000000 00:00 0 
+43bdb000-43bdc000 r--s 00016000 103:0f 725       /system/framework/okhttp.jar
+43bdc000-43be1000 rw-p 00000000 00:04 3640       /dev/ashmem/dalvik-aux-structure (deleted)
+43be1000-43be2000 rw-p 00000000 00:00 0 
+43be2000-43be3000 r--s 00002000 103:0f 712       /system/framework/core-junit.jar
+43be3000-43be4000 r--s 00023000 103:0f 710       /system/framework/conscrypt.jar
+43be4000-43c40000 r--p 00000000 103:10 56899     /data/dalvik-cache/system@framework@conscrypt.jar@classes.dex
+43c40000-43c75000 r--p 00000000 103:10 56900     /data/dalvik-cache/system@framework@okhttp.jar@classes.dex
+43c75000-43c78000 rw-p 00000000 00:00 0 
+43c78000-43c7f000 r--p 00000000 103:10 56901     /data/dalvik-cache/system@framework@core-junit.jar@classes.dex
+43c7f000-43c80000 rw-p 00000000 00:04 3641       /dev/ashmem/dalvik-aux-structure (deleted)
+43c80000-43c83000 rw-p 00000000 00:00 0 
+43c83000-43c84000 r--s 00390000 103:0f 717       /system/framework/framework.jar
+43c84000-43c85000 r--s 0008f000 103:0f 718       /system/framework/framework2.jar
+43c85000-43c87000 r--s 00076000 103:0f 732       /system/framework/telephony-common.jar
+43c87000-43c88000 r--s 00010000 103:0f 734       /system/framework/voip-common.jar
+43c88000-43c8c000 rw-p 00000000 00:04 3647       /dev/ashmem/dalvik-aux-structure (deleted)
+43c8c000-43c8d000 rw-p 00000000 00:00 0 
+43c8d000-43c8e000 r--s 0000c000 103:0f 723       /system/framework/mms-common.jar
+43c8e000-43c91000 rw-p 00000000 00:04 4291       /dev/ashmem/dalvik-aux-structure (deleted)
+43c91000-43c92000 r--s 00063000 103:0f 706       /system/framework/bouncycastle.jar
+43c92000-43da3000 r--p 00000000 103:10 56902     /data/dalvik-cache/system@framework@bouncycastle.jar@classes.dex
+43da3000-43db5000 rw-p 00000000 00:04 3642       /dev/ashmem/dalvik-aux-structure (deleted)
+43db5000-43dc8000 r--s 00118000 103:0f 715       /system/framework/ext.jar
+43dc8000-43f39000 r--p 00000000 103:10 56903     /data/dalvik-cache/system@framework@ext.jar@classes.dex
+43f39000-43f56000 rw-p 00000000 00:04 3643       /dev/ashmem/dalvik-aux-structure (deleted)
+43f56000-440c9000 r--p 00000000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440c9000-440ca000 r--p 00173000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440ca000-440ce000 r--p 00174000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440ce000-440cf000 r--p 00178000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440cf000-440d4000 r--p 00179000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440d4000-440d5000 r--p 0017e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440d5000-440e3000 r--p 0017f000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440e3000-440e4000 r--p 0018d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440e4000-440e5000 r--p 0018e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440e5000-440e6000 r--p 0018f000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440e6000-440f0000 r--p 00190000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440f0000-440f1000 r--p 0019a000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440f1000-440f2000 r--p 0019b000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440f2000-440f4000 r--p 0019c000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440f4000-440fb000 r--p 0019e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440fb000-440fc000 r--p 001a5000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440fc000-440ff000 r--p 001a6000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+440ff000-44100000 r--p 001a9000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44100000-44103000 r--p 001aa000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44103000-44104000 r--p 001ad000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44104000-44107000 r--p 001ae000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44107000-44109000 r--p 001b1000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44109000-4410f000 r--p 001b3000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4410f000-44112000 r--p 001b9000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44112000-44132000 r--p 001bc000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44132000-44133000 r--p 001dc000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44133000-44140000 r--p 001dd000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44140000-44142000 r--p 001ea000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44142000-44144000 r--p 001ec000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44144000-44145000 r--p 001ee000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44145000-44150000 r--p 001ef000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44150000-44151000 r--p 001fa000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44151000-44153000 r--p 001fb000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44153000-4417c000 r--p 001fd000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4417c000-4417d000 r--p 00226000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4417d000-4417f000 r--p 00227000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4417f000-44181000 r--p 00229000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44181000-4419c000 r--p 0022b000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4419c000-4419d000 r--p 00246000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4419d000-4419f000 r--p 00247000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4419f000-441a0000 r--p 00249000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441a0000-441a2000 r--p 0024a000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441a2000-441a3000 r--p 0024c000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441a3000-441a5000 r--p 0024d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441a5000-441a7000 r--p 0024f000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441a7000-441c0000 r--p 00251000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441c0000-441c1000 r--p 0026a000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441c1000-441df000 r--p 0026b000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441df000-441e0000 r--p 00289000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441e0000-441e6000 r--p 0028a000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441e6000-441e7000 r--p 00290000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441e7000-441e8000 r--p 00291000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441e8000-441e9000 r--p 00292000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441e9000-441ea000 r--p 00293000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441ea000-441ed000 r--p 00294000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441ed000-441ef000 r--p 00297000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441ef000-441f0000 r--p 00299000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441f0000-441f2000 r--p 0029a000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441f2000-441f3000 r--p 0029c000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+441f3000-44205000 r--p 0029d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44205000-44206000 r--p 002af000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44206000-4420d000 r--p 002b0000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4420d000-44210000 r--p 002b7000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44210000-44211000 r--p 002ba000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44211000-44212000 r--p 002bb000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44212000-44225000 r--p 002bc000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44225000-44227000 r--p 002cf000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44227000-44229000 r--p 002d1000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44229000-4422a000 r--p 002d3000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4422a000-4422e000 r--p 002d4000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4422e000-4422f000 r--p 002d8000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4422f000-44248000 r--p 002d9000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44248000-4424a000 r--p 002f2000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4424a000-4424b000 r--p 002f4000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4424b000-4424d000 r--p 002f5000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4424d000-4424e000 r--p 002f7000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4424e000-4427a000 r--p 002f8000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4427a000-4427b000 r--p 00324000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4427b000-44283000 r--p 00325000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44283000-44284000 r--p 0032d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44284000-44285000 r--p 0032e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44285000-44286000 r--p 0032f000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44286000-44291000 r--p 00330000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44291000-44292000 r--p 0033b000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44292000-44297000 r--p 0033c000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44297000-44298000 r--p 00341000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44298000-442a3000 r--p 00342000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+442a3000-442a5000 r--p 0034d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+442a5000-442ba000 r--p 0034f000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+442ba000-442bb000 r--p 00364000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+442bb000-442f2000 r--p 00365000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+442f2000-442f3000 r--p 0039c000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+442f3000-442fc000 r--p 0039d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+442fc000-442ff000 r--p 003a6000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+442ff000-4430f000 r--p 003a9000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4430f000-44310000 r--p 003b9000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44310000-44313000 r--p 003ba000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44313000-44319000 r--p 003bd000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44319000-4431b000 r--p 003c3000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4431b000-4431e000 r--p 003c5000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4431e000-4431f000 r--p 003c8000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4431f000-44321000 r--p 003c9000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44321000-44322000 r--p 003cb000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44322000-4436d000 r--p 003cc000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4436d000-4436e000 r--p 00417000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4436e000-44371000 r--p 00418000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44371000-44372000 r--p 0041b000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44372000-44374000 r--p 0041c000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44374000-44375000 r--p 0041e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44375000-44377000 r--p 0041f000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44377000-4437a000 r--p 00421000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4437a000-4437d000 r--p 00424000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4437d000-4437e000 r--p 00427000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4437e000-4437f000 r--p 00428000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4437f000-44380000 r--p 00429000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44380000-4438b000 r--p 0042a000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4438b000-4438c000 r--p 00435000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4438c000-4439b000 r--p 00436000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4439b000-4439c000 r--p 00445000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4439c000-4439d000 r--p 00446000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4439d000-4439e000 r--p 00447000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4439e000-4439f000 r--p 00448000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4439f000-443a4000 r--p 00449000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443a4000-443a6000 r--p 0044e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443a6000-443ab000 r--p 00450000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443ab000-443ad000 r--p 00455000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443ad000-443b0000 r--p 00457000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443b0000-443b1000 r--p 0045a000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443b1000-443b3000 r--p 0045b000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443b3000-443b4000 r--p 0045d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443b4000-443bc000 r--p 0045e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443bc000-443be000 r--p 00466000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443be000-443c0000 r--p 00468000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443c0000-443c1000 r--p 0046a000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443c1000-443c3000 r--p 0046b000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443c3000-443c4000 r--p 0046d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443c4000-443cd000 r--p 0046e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443cd000-443cf000 r--p 00477000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443cf000-443d3000 r--p 00479000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443d3000-443d4000 r--p 0047d000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443d4000-443d7000 r--p 0047e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443d7000-443d8000 r--p 00481000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443d8000-443d9000 r--p 00482000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443d9000-443da000 r--p 00483000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443da000-443e1000 r--p 00484000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443e1000-443e4000 r--p 0048b000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443e4000-443e7000 r--p 0048e000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443e7000-443e9000 r--p 00491000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443e9000-443f9000 r--p 00493000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443f9000-443fa000 r--p 004a3000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443fa000-443ff000 r--p 004a4000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+443ff000-44400000 r--p 004a9000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44400000-44401000 r--p 004aa000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44401000-44402000 r--p 004ab000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44402000-44410000 r--p 004ac000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44410000-44411000 r--p 004ba000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44411000-44413000 r--p 004bb000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44413000-44414000 r--p 004bd000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44414000-44418000 r--p 004be000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44418000-44419000 r--p 004c2000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44419000-4441c000 r--p 004c3000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4441c000-4441d000 r--p 004c6000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4441d000-44421000 r--p 004c7000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44421000-44422000 r--p 004cb000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44422000-44428000 r--p 004cc000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44428000-4442a000 r--p 004d2000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+4442a000-44443000 r--p 004d4000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44443000-44444000 r--p 004ed000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44444000-44446000 r--p 004ee000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44446000-44448000 r--p 004f0000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+44448000-448a2000 r--p 004f2000 103:10 56904     /data/dalvik-cache/system@framework@framework.jar@classes.dex
+448a2000-44959000 rw-p 00000000 00:04 3644       /dev/ashmem/dalvik-aux-structure (deleted)
+44959000-44ae2000 r--p 00000000 103:10 56905     /data/dalvik-cache/system@framework@framework2.jar@classes.dex
+44ae2000-44b0a000 rw-p 00000000 00:04 3645       /dev/ashmem/dalvik-aux-structure (deleted)
+44b0a000-44c47000 r--p 00000000 103:10 56906     /data/dalvik-cache/system@framework@telephony-common.jar@classes.dex
+44c47000-44c5f000 rw-p 00000000 00:04 3646       /dev/ashmem/dalvik-aux-structure (deleted)
+44c5f000-44c8a000 r--p 00000000 103:10 56907     /data/dalvik-cache/system@framework@voip-common.jar@classes.dex
+44c8a000-44c97000 rw-p 00000000 00:00 0 
+44c97000-44cb7000 r--p 00000000 103:10 56908     /data/dalvik-cache/system@framework@mms-common.jar@classes.dex
+44cb7000-44cbe000 rw-p 00000000 00:04 3654       /dev/ashmem/dalvik-aux-structure (deleted)
+44cbe000-44cbf000 r--s 00002000 103:0f 727       /system/framework/qb.jar
+44cbf000-44cc5000 r--p 00000000 103:10 56910     /data/dalvik-cache/system@framework@qb.jar@classes.dex
+44cc5000-44cc6000 rw-p 00000000 00:04 3655       /dev/ashmem/dalvik-aux-structure (deleted)
+44cc6000-44cc7000 r--s 00168000 103:0f 1566      /system/framework/services.jar
+44cc7000-44cc8000 r--s 00040000 103:0f 791       /system/framework/webviewchromium.jar
+44cc8000-44cc9000 r--s 0001e000 103:0f 702       /system/framework/android.policy.jar
+44cc9000-44d15000 r--p 00000000 103:10 56909     /data/dalvik-cache/system@framework@android.policy.jar@classes.dex
+44d15000-4508d000 r--p 00000000 103:10 56911     /data/dalvik-cache/system@framework@services.jar@classes.dex
+4508d000-450c8000 rw-p 00000000 00:04 3656       /dev/ashmem/dalvik-aux-structure (deleted)
+450c8000-450d8000 rw-p 00000000 00:04 3658       /dev/ashmem/dalvik-aux-structure (deleted)
+450d8000-450d9000 rw-p 00000000 00:00 0 
+450d9000-450db000 r--s 00085000 103:0f 704       /system/framework/apache-xml.jar
+450db000-4522c000 r--p 00000000 103:10 56912     /data/dalvik-cache/system@framework@apache-xml.jar@classes.dex
+4522c000-45244000 rw-p 00000000 00:04 3657       /dev/ashmem/dalvik-aux-structure (deleted)
+45244000-452f1000 r--p 00000000 103:10 56913     /data/dalvik-cache/system@framework@webviewchromium.jar@classes.dex
+452f1000-45321000 r-xp 00000000 103:0f 1019      /system/lib/libjavacore.so
+45321000-45322000 ---p 00000000 00:00 0 
+45322000-45323000 r--p 00030000 103:0f 1019      /system/lib/libjavacore.so
+45323000-45325000 rw-p 00031000 103:0f 1019      /system/lib/libjavacore.so
+45325000-4654c000 r--s 00000000 103:0f 1468      /system/usr/icu/icudt51l.dat
+4654c000-4654d000 ---p 00000000 00:00 0 
+4654d000-4664a000 rw-p 00000000 00:00 0          [stack:32468]
+4664a000-46650000 rw-p 00000000 00:00 0 
+46650000-46651000 ---p 00000000 00:00 0 
+46651000-4674e000 rw-p 00000000 00:00 0          [stack:32469]
+4674e000-46754000 rw-p 00000000 00:00 0 
+46754000-46755000 ---p 00000000 00:00 0 
+46755000-46852000 rw-p 00000000 00:00 0          [stack:32471]
+46852000-46858000 rw-p 00000000 00:00 0 
+46858000-4688d000 rw-p 00000000 00:00 0 
+4688d000-4689e000 rw-p 00000000 00:00 0 
+4689e000-468cb000 rw-p 00000000 00:00 0 
+468cb000-4690b000 r--s 00db9000 103:0f 716       /system/framework/framework-res.apk
+4690b000-470b1000 r--s 005e9000 103:0f 716       /system/framework/framework-res.apk
+470b1000-470d6000 rw-p 00000000 00:00 0 
+470d6000-470dc000 r-xp 00000000 103:0f 927       /system/lib/libdrmframework_jni.so
+470dc000-470dd000 r--p 00005000 103:0f 927       /system/lib/libdrmframework_jni.so
+470dd000-470de000 rw-p 00006000 103:0f 927       /system/lib/libdrmframework_jni.so
+470de000-470f2000 r-xp 00000000 103:0f 926       /system/lib/libdrmframework.so
+470f2000-470f5000 r--p 00013000 103:0f 926       /system/lib/libdrmframework.so
+470f5000-470f6000 rw-p 00016000 103:0f 926       /system/lib/libdrmframework.so
+470f6000-470f7000 r--p 00000000 00:00 0 
+470f7000-47100000 rw-p 00000000 00:00 0 
+47100000-47101000 r-xp 00000000 103:0f 913       /system/lib/libconnectivitymanager.so
+47101000-47102000 r--p 00000000 103:0f 913       /system/lib/libconnectivitymanager.so
+47102000-47103000 rw-p 00001000 103:0f 913       /system/lib/libconnectivitymanager.so
+47103000-47104000 r--p 00000000 00:00 0 
+47104000-47111000 rw-p 00000000 00:00 0 
+47111000-47112000 r-xp 00000000 103:0f 1103      /system/lib/libstagefright_enc_common.so
+47112000-47113000 r--p 00000000 103:0f 1103      /system/lib/libstagefright_enc_common.so
+47113000-47114000 rw-p 00001000 103:0f 1103      /system/lib/libstagefright_enc_common.so
+47114000-47125000 rw-p 00000000 00:00 0 
+47125000-47142000 r--p 00000000 103:0f 692       /system/fonts/Roboto-Regular.ttf
+47142000-47159000 rw-p 00000000 00:00 0 
+47159000-4718c000 r-xp 00000000 103:0f 1039      /system/lib/libmedia_jni.so
+4718c000-4718e000 r--p 00032000 103:0f 1039      /system/lib/libmedia_jni.so
+4718e000-4718f000 rw-p 00034000 103:0f 1039      /system/lib/libmedia_jni.so
+4718f000-47284000 r-xp 00000000 103:0f 1099      /system/lib/libstagefright.so
+47284000-47285000 ---p 00000000 00:00 0 
+47285000-4728b000 r--p 000f5000 103:0f 1099      /system/lib/libstagefright.so
+4728b000-4728c000 rw-p 000fb000 103:0f 1099      /system/lib/libstagefright.so
+4728c000-472a3000 r-xp 00000000 103:0f 1106      /system/lib/libstagefright_omx.so
+472a3000-472a4000 ---p 00000000 00:00 0 
+472a4000-472a6000 r--p 00017000 103:0f 1106      /system/lib/libstagefright_omx.so
+472a6000-472a7000 rw-p 00019000 103:0f 1106      /system/lib/libstagefright_omx.so
+472a7000-472a9000 r-xp 00000000 103:0f 1125      /system/lib/libstagefright_yuv.so
+472a9000-472aa000 r--p 00001000 103:0f 1125      /system/lib/libstagefright_yuv.so
+472aa000-472ab000 rw-p 00002000 103:0f 1125      /system/lib/libstagefright_yuv.so
+472ab000-472c3000 r-xp 00000000 103:0f 1151      /system/lib/libvorbisidec.so
+472c3000-472c4000 r--p 00017000 103:0f 1151      /system/lib/libvorbisidec.so
+472c4000-472c5000 rw-p 00018000 103:0f 1151      /system/lib/libvorbisidec.so
+472c5000-472c8000 r-xp 00000000 103:0f 1067      /system/lib/libpowermanager.so
+472c8000-472c9000 r--p 00002000 103:0f 1067      /system/lib/libpowermanager.so
+472c9000-472ca000 rw-p 00003000 103:0f 1067      /system/lib/libpowermanager.so
+472ca000-472cf000 r-xp 00000000 103:0f 1101      /system/lib/libstagefright_avc_common.so
+472cf000-472d0000 r--p 00004000 103:0f 1101      /system/lib/libstagefright_avc_common.so
+472d0000-472d1000 rw-p 00005000 103:0f 1101      /system/lib/libstagefright_avc_common.so
+472d1000-472d2000 r-xp 00000000 103:0f 980       /system/lib/libhi_smoothstreaming.so
+472d2000-472d3000 r--p 00000000 103:0f 980       /system/lib/libhi_smoothstreaming.so
+472d3000-472d4000 rw-p 00001000 103:0f 980       /system/lib/libhi_smoothstreaming.so
+472d4000-472e5000 r-xp 00000000 103:0f 1045      /system/lib/libmtp.so
+472e5000-472e6000 ---p 00000000 00:00 0 
+472e6000-472e7000 r--p 00011000 103:0f 1045      /system/lib/libmtp.so
+472e7000-472e8000 rw-p 00012000 103:0f 1045      /system/lib/libmtp.so
+472e8000-472f0000 r-xp 00000000 103:0f 936       /system/lib/libexif.so
+472f0000-472f1000 ---p 00000000 00:00 0 
+472f1000-472f2000 r--p 00008000 103:0f 936       /system/lib/libexif.so
+472f2000-472f3000 rw-p 00009000 103:0f 936       /system/lib/libexif.so
+472f3000-472f4000 rw-p 00000000 00:00 0 
+472f4000-47300000 r-xp 00000000 103:0f 1100      /system/lib/libstagefright_amrnb_common.so
+47300000-47301000 r--p 0000b000 103:0f 1100      /system/lib/libstagefright_amrnb_common.so
+47301000-47302000 rw-p 0000c000 103:0f 1100      /system/lib/libstagefright_amrnb_common.so
+47302000-4730

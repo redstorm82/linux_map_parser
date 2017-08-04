@@ -3,7 +3,9 @@ a lua project to parse linux /proc/pid/maps file ,and android bionic libc.debug.
  
 使用说明：
 本工程主要用于处理android native 内存泄漏问题代码调用堆栈分析。
+
 需要的输入文件有两个：
+
 1.待分析的程序对应的.map文件，通过cat /proc/进程pid/maps > 进程名.map
 2.使用android bionic库的libc.debug.malloc方式获取到的调用堆栈，进程名.map.mm，典型的获取方法如下：
    0）准备工作
@@ -32,3 +34,7 @@ a lua project to parse linux /proc/pid/maps file ,and android bionic libc.debug.
  本工程用法，将map文件(map_file_name)和对应的要分析的.mm文件（mm_file_name）保存在同一个目录下，使用下面命令，即可得到分析后的堆栈信息map_file_name.parsed
  lua main.lua map_file_name mm_file_name
  
+ 示例：
+ cd src
+ lua main.lua ../tests/tester1.map 生成../tests/tester1.map.parsed
+ lua main.lua ../tests/tester2.map 生成../tests/tester2.map.parsed
